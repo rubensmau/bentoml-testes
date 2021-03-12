@@ -1,0 +1,1000 @@
+﻿0,0,0,operario,sem conta,2,1,1,muito_alta,2,1500,Nao,2,6,muito pobre,imovel,carro novo,proprio,2,0
+0,0,0,operario,baixa,1,0,1,baixa,4,1656,Nao,2,9,boa,imovel,carro novo,aluguel,4,0
+0,0,0,nivel medio,negativa,2,0,1,alta,4,2028,Nao,15,6,muito pobre,carro ou outro,eletronico,proprio,4,0
+0,0,0,operario,negativa,1,2,1,baixa,1,2034,Nao,12,12,boa,carro ou outro,requalificacao,proprio,4,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,1,2058,Nao,1,6,boa,imovel,eletrodomestico,proprio,4,0
+0,0,0,operario,sem conta,2,0,1,media,4,2172,Nao,3,6,muito pobre,carro ou outro,carro novo,proprio,4,0
+0,0,0,nivel medio,alta,2,0,1,muito_alta,3,2454,Nao,2,12,boa,imovel,eletronico,aluguel,3,0
+0,0,0,operario,sem conta,1,0,1,baixa,4,2556,Nao,13,6,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,baixa,1,1,2,muito_alta,2,2598,Nao,1,6,boa,seguro de vida,educacao,aluguel,4,1
+1,0,0,nivel medio,sem conta,1,0,1,baixa,4,2598,Nao,0,18,boa,imovel,eletronico,aluguel,3,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,2688,Nao,1,6,boa,seguro de vida,educacao,proprio,4,1
+0,0,0,nivel medio,baixa,1,0,1,baixa,3,2748,Nao,3,9,boa,imovel,eletronico,proprio,4,0
+0,1,0,operario,baixa,1,1,1,baixa,3,2904,Nao,7,6,boa,imovel,eletronico,proprio,3,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,1,3108,Nao,4,6,boa,imovel,eletronico,proprio,3,0
+0,0,0,nivel medio,negativa,2,0,1,baixa,4,3426,Nao,9,21,muito pobre,imovel,carro novo,proprio,4,0
+1,0,0,nivel medio,baixa,2,0,1,baixa,4,3510,Nao,4,12,pobre,imovel,eletronico,aluguel,4,0
+0,0,0,nivel medio,negativa,2,0,1,baixa,3,3654,Nao,5,6,muito pobre,seguro de vida,carro novo,proprio,4,0
+0,0,0,desempregado,alta,1,0,1,baixa,1,3654,Nao,1,12,boa,imovel,empresa,proprio,4,1
+0,0,0,nivel medio,sem conta,1,0,1,baixa,4,3708,Nao,9,12,muito pobre,imovel,eletronico,proprio,4,0
+0,1,0,operario,baixa,1,2,1,baixa,1,3750,Nao,1,12,boa,imovel,eletronico,proprio,4,0
+0,0,0,operario,negativa,1,1,1,baixa,4,3756,Nao,2,12,boa,imovel,eletronico,proprio,4,1
+0,0,0,nivel medio,baixa,1,0,1,baixa,2,3834,Nao,4,12,boa,carro ou outro,reformas,proprio,4,1
+0,0,0,operario,sem conta,1,0,1,baixa,2,3840,Nao,4,12,boa,imovel,carro novo,proprio,4,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,3912,Nao,9,12,boa,seguro de vida,mobiliario,aluguel,4,0
+0,0,0,operario,negativa,1,0,1,baixa,3,3924,Nao,2,9,boa,carro ou outro,carro novo,proprio,4,1
+0,0,0,operario,sem conta,1,0,1,alta,4,3960,Nao,5,6,boa,imovel,reformas,aluguel,2,0
+0,0,0,operario,negativa,1,0,2,baixa,4,4104,Nao,3,12,boa,carro ou outro,educacao,aluguel,4,1
+0,0,0,operario,baixa,1,2,1,baixa,3,4110,Nao,7,12,boa,carro ou outro,carro novo,proprio,2,1
+0,0,0,nivel medio,negativa,2,0,1,baixa,3,4146,Nao,9,12,muito pobre,seguro de vida,carro novo,proprio,4,1
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,4,4200,Nao,16,6,muito pobre,Nao,eletronico,gratis,4,0
+0,0,0,nivel medio,sem conta,2,2,1,baixa,2,4242,Nao,4,12,boa,imovel,eletronico,proprio,4,0
+0,0,0,desempregado,alta,1,0,1,muito_alta,2,4254,Nao,1,6,boa,imovel,carro novo,proprio,2,0
+0,0,2,operario,negativa,1,0,1,baixa,4,4254,Nao,12,12,boa,imovel,eletronico,proprio,4,1
+0,0,0,nivel medio,sem conta,3,0,1,baixa,4,4302,Nao,14,12,muito pobre,imovel,eletronico,proprio,4,0
+0,0,0,operario,sem conta,1,2,2,baixa,4,4314,Nao,8,12,boa,carro ou outro,educacao,proprio,4,1
+0,0,0,operario,negativa,2,0,1,baixa,4,4386,Nao,11,8,muito pobre,imovel,carro novo,proprio,4,0
+0,0,0,nivel medio,negativa,1,0,1,media,3,4446,Nao,0,12,boa,seguro de vida,eletrodomestico,proprio,4,1
+0,0,0,desempregado,negativa,1,0,1,baixa,1,4500,Nao,0,18,boa,imovel,educacao,proprio,4,1
+0,0,0,nivel medio,baixa,2,0,1,sem conta,4,4524,Nao,15,12,boa,seguro de vida,requalificacao,proprio,4,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,2,4554,Nao,7,12,boa,imovel,carro novo,proprio,4,1
+0,1,0,operario,baixa,1,0,1,baixa,2,4560,Nao,5,8,boa,imovel,eletronico,proprio,4,0
+0,0,0,operario,baixa,1,0,1,alta,3,4596,Nao,4,12,boa,imovel,eletronico,proprio,4,1
+0,1,1,operario,sem conta,1,0,2,sem conta,2,4698,Nao,4,6,boa,imovel,carro novo,proprio,1,0
+0,0,0,operario,baixa,1,0,1,alta,3,4740,Nao,2,9,boa,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,4770,Nao,1,12,boa,seguro de vida,educacao,proprio,4,1
+0,0,0,operario,sem conta,2,0,1,baixa,2,4812,Nao,4,14,pobre,carro ou outro,carro novo,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,2,baixa,3,4812,Nao,15,15,boa,carro ou outro,eletronico,proprio,4,1
+0,0,0,nivel medio,sem conta,1,0,1,baixa,4,4824,Nao,13,12,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,operario,negativa,1,0,1,baixa,4,4836,Nao,4,15,boa,seguro de vida,empresa,proprio,4,0
+0,0,0,operario,baixa,1,1,1,media,2,5016,Nao,1,12,boa,seguro de vida,carro novo,proprio,4,1
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,4,5076,Nao,14,7,pobre,Nao,eletronico,gratis,3,0
+0,1,0,operario,baixa,1,0,1,baixa,2,5196,Nao,2,18,boa,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,1,5244,Nao,1,15,boa,imovel,eletrodomestico,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,2,5316,Nao,4,12,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,negativa,1,0,1,sem conta,2,5400,Nao,3,12,boa,carro ou outro,carro novo,proprio,4,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,5412,Nao,5,12,boa,seguro de vida,requalificacao,aluguel,4,1
+0,0,0,nivel medio,sem conta,1,0,1,alta,4,5454,Nao,14,36,boa,seguro de vida,carro novo,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,1,5508,Nao,4,9,boa,seguro de vida,mobiliario,proprio,4,1
+0,0,0,desempregado,sem conta,1,0,1,baixa,2,5556,Nao,0,12,muito pobre,seguro de vida,carro novo,proprio,1,0
+0,0,0,nivel medio,sem conta,4,0,1,sem conta,4,5580,Nao,15,12,muito pobre,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,5592,Nao,3,6,pobre,imovel,eletronico,proprio,3,0
+0,0,0,operario,sem conta,2,0,1,baixa,3,5622,Nao,1,24,boa,carro ou outro,requalificacao,proprio,4,0
+0,0,0,nivel medio,alta,1,1,2,baixa,3,5682,Nao,6,24,boa,Nao,carro novo,gratis,4,1
+0,0,0,nivel medio,negativa,2,0,2,baixa,3,5700,Nao,15,15,boa,carro ou outro,carro novo,aluguel,4,1
+0,0,0,nivel medio,baixa,4,1,1,media,4,5706,Nao,1,12,boa,carro ou outro,mobiliario,aluguel,4,1
+0,0,0,operario,baixa,2,0,2,baixa,3,5748,Nao,5,12,muito pobre,imovel,carro novo,proprio,2,0
+0,0,0,nivel medio,sem conta,2,0,1,muito_alta,2,5760,Nao,6,15,pobre,seguro de vida,mobiliario,proprio,3,0
+0,0,0,nivel medio,negativa,2,0,1,baixa,3,5850,Nao,3,15,muito pobre,seguro de vida,mobiliario,proprio,2,0
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,4,5856,Nao,9,12,muito pobre,carro ou outro,eletronico,proprio,4,0
+0,0,0,operario,negativa,1,0,1,baixa,2,5856,Nao,1,18,boa,carro ou outro,carro novo,proprio,1,1
+0,0,0,operario,baixa,1,0,1,muito_alta,4,5898,Nao,1,12,boa,imovel,mobiliario,aluguel,1,0
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,4,5976,Nao,6,12,muito pobre,imovel,reformas,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,2,5994,Nao,10,24,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,1,muito_alta,1,6042,Nao,4,12,boa,imovel,carro novo,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,3,6168,Nao,3,18,muito pobre,imovel,carro novo,proprio,4,0
+0,0,0,operario,baixa,1,0,1,media,4,6222,Nao,5,12,boa,imovel,empresa,proprio,3,0
+0,0,0,nivel medio,baixa,1,0,1,sem conta,2,6252,Nao,3,18,boa,seguro de vida,carro novo,proprio,4,1
+0,0,0,operario,alta,1,0,1,baixa,4,6282,Nao,4,6,muito pobre,seguro de vida,educacao,proprio,2,0
+0,0,2,operario,baixa,1,0,1,baixa,4,6288,Nao,3,10,boa,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,6294,Nao,1,18,muito pobre,seguro de vida,mobiliario,aluguel,4,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,2,6318,Nao,1,15,boa,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,1,6330,Nao,1,18,muito pobre,seguro de vida,carro novo,proprio,4,0
+0,1,0,nivel medio,baixa,2,1,1,baixa,3,6336,Nao,9,18,muito pobre,imovel,carro novo,proprio,3,1
+0,0,0,nivel medio,negativa,2,1,1,baixa,4,6492,Nao,4,12,boa,carro ou outro,carro novo,proprio,4,1
+0,0,0,desempregado,sem conta,2,0,1,baixa,4,6588,Nao,0,18,muito pobre,carro ou outro,eletronico,proprio,4,0
+0,1,0,nivel medio,baixa,2,0,1,baixa,3,6618,Nao,5,12,boa,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,negativa,2,0,1,baixa,3,6648,Nao,7,12,boa,imovel,reformas,proprio,4,1
+0,1,0,operario,baixa,1,0,2,baixa,4,6678,Nao,3,18,boa,imovel,eletronico,proprio,4,0
+0,0,0,operario,sem conta,1,0,1,alta,4,6738,Nao,2,12,boa,carro ou outro,mobiliario,aluguel,4,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,2,6786,Nao,0,18,boa,carro ou outro,mobiliario,proprio,4,1
+0,0,0,nivel medio,baixa,2,0,2,muito_alta,3,6816,Nao,11,9,muito pobre,Nao,educacao,gratis,4,1
+0,0,0,operario,negativa,2,0,1,baixa,4,6828,Nao,2,9,muito pobre,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,muito_alta,3,6894,Nao,2,18,muito pobre,imovel,eletronico,proprio,4,0
+0,0,0,operario,baixa,3,0,1,baixa,4,6924,Nao,9,9,muito pobre,imovel,eletronico,proprio,2,0
+0,0,0,operario,sem conta,3,0,1,media,4,6924,Nao,0,11,muito pobre,imovel,eletronico,proprio,4,0
+0,1,0,operario,baixa,2,2,1,baixa,3,6930,Nao,16,12,boa,imovel,eletronico,proprio,3,0
+0,0,0,operario,negativa,1,0,1,baixa,3,7008,Nao,2,12,boa,imovel,carro novo,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,2,7110,Nao,2,12,muito pobre,imovel,empresa,proprio,3,0
+0,0,0,nivel medio,baixa,1,0,2,baixa,4,7128,Nao,10,21,boa,seguro de vida,empresa,proprio,2,1
+0,0,0,desempregado,negativa,3,0,2,baixa,4,7140,Nao,0,18,muito pobre,Nao,reformas,gratis,2,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,7188,Nao,14,6,boa,Nao,educacao,gratis,4,1
+0,0,0,nivel medio,baixa,1,0,1,baixa,1,7206,Nao,1,24,boa,seguro de vida,carro novo,proprio,4,0
+0,0,0,nivel medio,sem conta,1,1,1,media,1,7224,Nao,2,6,boa,Nao,carro novo,aluguel,4,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,4,7236,Nao,15,9,boa,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,baixa,2,2,2,media,4,7296,Nao,1,24,muito pobre,Nao,eletronico,proprio,4,1
+0,0,0,nivel medio,baixa,2,0,1,baixa,1,7338,Nao,15,12,boa,imovel,carro novo,aluguel,1,1
+0,0,0,nivel medio,sem conta,2,0,1,baixa,1,7344,Nao,3,9,muito pobre,imovel,carro novo,proprio,3,0
+0,0,0,operario,negativa,1,0,1,baixa,2,7368,Nao,2,12,boa,imovel,carro novo,proprio,4,1
+0,0,0,operario,sem conta,2,0,2,baixa,4,7386,Nao,14,10,muito pobre,imovel,carro novo,proprio,3,0
+0,0,0,nivel medio,sem conta,2,0,1,media,1,7422,Nao,4,6,muito pobre,seguro de vida,eletronico,proprio,1,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,4,7422,Nao,2,8,boa,imovel,mobiliario,proprio,3,1
+0,0,0,nivel medio,baixa,1,0,1,sem conta,4,7434,Nao,4,18,boa,Nao,educacao,gratis,4,0
+0,0,0,operario,alta,1,0,2,media,4,7440,Nao,15,10,boa,Nao,carro novo,gratis,1,1
+0,0,0,operario,sem conta,2,0,1,sem conta,4,7464,Nao,9,9,muito pobre,seguro de vida,educacao,aluguel,4,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,2,7470,Nao,4,18,muito pobre,carro ou outro,eletronico,proprio,4,1
+0,0,1,operario,baixa,1,0,1,baixa,2,7476,Nao,1,24,boa,imovel,carro novo,proprio,4,1
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,7494,Nao,1,24,boa,imovel,carro novo,proprio,4,0
+0,0,0,operario,sem conta,2,0,1,baixa,4,7548,Nao,1,12,muito pobre,seguro de vida,mobiliario,aluguel,2,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,7572,Nao,2,12,boa,carro ou outro,eletronico,proprio,3,0
+0,0,0,operario,sem conta,1,0,1,sem conta,4,7584,Nao,8,12,muito pobre,Nao,empresa,aluguel,4,0
+0,0,0,nivel medio,baixa,1,0,1,media,2,7584,Nao,2,15,boa,seguro de vida,carro novo,aluguel,2,1
+0,0,0,operario,negativa,1,0,1,baixa,1,7644,Nao,1,12,boa,imovel,carro novo,proprio,3,1
+0,0,0,nivel medio,alta,1,0,1,baixa,2,7650,Nao,1,10,boa,seguro de vida,mobiliario,proprio,4,0
+0,0,0,nivel medio,negativa,1,0,1,sem conta,2,7650,Nao,2,15,boa,carro ou outro,eletrodomestico,aluguel,4,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,7692,Nao,2,12,boa,carro ou outro,mobiliario,aluguel,2,1
+0,0,0,operario,negativa,1,0,1,media,2,7692,Nao,3,24,boa,carro ou outro,eletronico,proprio,4,1
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,4,7698,Nao,6,22,boa,seguro de vida,carro novo,aluguel,4,0
+0,0,0,nivel medio,negativa,1,0,1,sem conta,4,7710,Nao,5,24,boa,Nao,carro novo,aluguel,4,1
+1,0,0,operario,sem conta,1,0,1,sem conta,2,7722,Nao,15,10,boa,seguro de vida,carro novo,proprio,4,0
+0,1,0,nivel medio,negativa,2,0,2,media,4,7728,Nao,8,9,muito pobre,imovel,reformas,proprio,3,0
+0,1,0,operario,negativa,1,0,1,baixa,1,7734,Nao,4,12,boa,seguro de vida,mobiliario,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,2,7746,Nao,2,12,muito pobre,seguro de vida,eletronico,proprio,4,0
+0,0,0,nivel medio,baixa,2,0,1,baixa,1,7770,Nao,1,18,muito pobre,seguro de vida,mobiliario,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,1,7770,Nao,1,12,boa,carro ou outro,carro novo,aluguel,3,1
+0,0,0,nivel medio,alta,1,0,1,baixa,4,7782,Nao,4,12,boa,imovel,eletronico,aluguel,3,0
+0,0,0,desempregado,alta,3,0,2,baixa,1,7794,Nao,3,6,muito pobre,imovel,carro novo,proprio,1,0
+0,0,0,nivel medio,sem conta,1,2,2,sem conta,4,7800,Nao,8,15,boa,Nao,carro_usado,gratis,4,0
+0,1,0,operario,baixa,1,0,1,baixa,2,7806,Nao,12,18,boa,imovel,eletronico,proprio,4,0
+0,0,0,operario,baixa,2,0,1,baixa,4,7848,Nao,14,15,boa,carro ou outro,reformas,proprio,4,0
+0,1,0,operario,sem conta,1,0,1,sem conta,4,7854,Nao,3,10,boa,seguro de vida,carro novo,proprio,4,1
+0,0,0,nivel medio,sem conta,1,0,1,baixa,4,7878,Nao,9,9,boa,carro ou outro,mobiliario,proprio,1,0
+0,0,0,operario,sem conta,2,0,1,alta,2,7896,Nao,4,15,muito pobre,seguro de vida,eletronico,proprio,2,0
+0,0,0,nivel medio,baixa,2,0,1,muito_alta,4,7932,Nao,3,11,muito pobre,carro ou outro,carro novo,proprio,4,0
+0,0,0,nivel medio,negativa,2,0,2,baixa,2,7998,Nao,0,24,pobre,imovel,carro novo,gratis,4,1
+0,0,0,nivel medio,sem conta,1,0,1,alta,4,8028,Nao,2,6,boa,imovel,eletrodomestico,proprio,1,0
+0,0,0,nivel medio,alta,2,0,2,baixa,4,8058,Nao,10,6,muito pobre,imovel,carro novo,proprio,1,0
+0,0,0,operario,negativa,2,0,2,baixa,2,8064,Nao,4,12,pobre,imovel,carro novo,proprio,4,0
+0,0,0,nivel medio,negativa,1,1,1,baixa,3,8070,Nao,2,18,boa,imovel,eletronico,proprio,4,1
+0,0,0,nivel medio,sem conta,2,0,1,baixa,2,8160,Nao,4,15,muito pobre,seguro de vida,eletronico,proprio,4,0
+0,0,0,operario,negativa,1,0,2,baixa,4,8166,Nao,1,6,muito pobre,imovel,carro novo,proprio,2,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,8184,Nao,5,9,boa,imovel,eletronico,proprio,3,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,8196,Nao,1,9,boa,seguro de vida,eletronico,aluguel,3,1
+0,0,0,nivel medio,negativa,1,0,1,sem conta,4,8226,Nao,4,24,boa,imovel,carro novo,aluguel,4,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,3,8232,Nao,6,12,boa,carro ou outro,carro novo,proprio,2,1
+0,0,0,nivel medio,sem conta,1,0,1,alta,1,8256,Nao,6,24,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,negativa,1,0,1,sem conta,2,8286,Nao,2,24,boa,seguro de vida,carro novo,proprio,4,1
+0,0,0,nivel medio,sem conta,1,0,1,alta,2,8316,Nao,4,12,boa,seguro de vida,carro novo,proprio,2,1
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,8328,Nao,2,9,boa,imovel,mobiliario,aluguel,4,0
+0,0,0,nivel alto,sem conta,2,0,1,baixa,4,8358,Nao,1,11,muito pobre,carro ou outro,carro novo,proprio,4,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,3,8454,Nao,8,12,muito pobre,imovel,carro_usado,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,media,4,8454,Nao,0,13,boa,imovel,eletronico,proprio,2,0
+0,0,0,nivel medio,sem conta,1,0,1,muito_alta,2,8478,Nao,7,12,boa,seguro de vida,carro_usado,proprio,3,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,8478,Nao,3,24,boa,seguro de vida,eletronico,proprio,4,0
+0,0,0,operario,sem conta,1,0,1,media,2,8508,Nao,2,10,boa,imovel,carro novo,aluguel,3,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,3,8544,Nao,6,12,muito pobre,seguro de vida,eletrodomestico,proprio,4,0
+0,0,0,nivel medio,negativa,2,0,1,baixa,3,8598,Nao,2,15,muito pobre,seguro de vida,mobiliario,aluguel,4,0
+0,0,0,nivel medio,baixa,1,0,1,media,3,8622,Nao,7,9,boa,Nao,carro novo,proprio,2,1
+0,0,0,operario,negativa,2,0,2,baixa,4,8652,Nao,5,18,boa,Nao,carro novo,gratis,4,1
+0,0,0,nivel medio,negativa,2,0,1,baixa,4,8652,Nao,7,24,boa,carro ou outro,carro novo,aluguel,4,1
+0,0,0,nivel medio,baixa,1,0,1,sem conta,1,8664,Nao,1,15,boa,seguro de vida,eletronico,proprio,4,0
+0,0,0,nivel medio,baixa,2,2,2,media,2,8694,Nao,16,6,pobre,carro ou outro,empresa,proprio,1,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,2,8694,Nao,6,9,boa,carro ou outro,empresa,proprio,3,0
+0,0,0,operario,sem conta,3,0,2,baixa,1,8730,Nao,5,4,muito pobre,imovel,carro novo,proprio,2,0
+0,0,0,operario,sem conta,1,0,1,baixa,2,8754,Nao,3,15,muito pobre,carro ou outro,eletronico,proprio,4,0
+0,0,0,operario,sem conta,1,0,1,media,4,8814,Nao,8,24,boa,imovel,carro novo,aluguel,4,0
+0,0,0,nivel medio,sem conta,2,1,1,baixa,3,8868,Nao,2,15,pobre,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,8868,Nao,6,9,boa,carro ou outro,eletronico,proprio,4,1
+0,0,0,desempregado,alta,3,2,1,alta,4,8880,Nao,0,12,muito pobre,Nao,carro novo,gratis,2,0
+0,0,0,operario,alta,1,0,2,sem conta,2,8964,Nao,1,4,boa,imovel,carro novo,proprio,1,0
+0,0,0,operario,sem conta,2,0,2,baixa,1,8970,Nao,15,12,muito pobre,imovel,carro novo,proprio,4,0
+0,0,0,nivel medio,negativa,1,2,1,baixa,1,8988,Nao,4,12,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,4,9018,Nao,3,12,pobre,imovel,carro_usado,aluguel,4,0
+0,0,2,nivel medio,baixa,2,0,1,muito_alta,3,9072,Nao,4,15,pobre,seguro de vida,reformas,proprio,3,1
+0,1,0,nivel medio,baixa,1,0,1,media,2,9084,Nao,3,15,boa,imovel,reformas,proprio,4,0
+0,0,0,operario,sem conta,2,0,1,muito_alta,1,9096,Nao,3,24,muito pobre,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,4,9120,Nao,9,15,muito pobre,seguro de vida,mobiliario,proprio,4,0
+0,0,0,operario,baixa,1,0,1,baixa,2,9126,Nao,4,10,boa,carro ou outro,mobiliario,proprio,4,0
+0,0,0,nivel medio,sem conta,2,2,1,baixa,2,9180,Nao,4,18,muito pobre,seguro de vida,carro novo,proprio,3,1
+0,0,0,nivel medio,sem conta,1,0,1,media,3,9192,Nao,3,15,muito pobre,carro ou outro,educacao,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,1,9204,Nao,1,12,boa,imovel,eletronico,aluguel,1,1
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,9228,Nao,1,6,boa,Nao,educacao,proprio,1,0
+0,0,0,nivel medio,sem conta,1,0,1,muito_alta,2,9258,Nao,4,6,boa,imovel,mobiliario,proprio,4,0
+0,0,0,operario,sem conta,3,0,2,baixa,1,9264,Nao,7,4,muito pobre,imovel,eletronico,proprio,2,0
+0,0,0,operario,sem conta,1,0,2,baixa,2,9276,Nao,2,10,boa,imovel,carro novo,proprio,3,0
+0,1,0,operario,negativa,1,1,1,baixa,4,9276,Nao,5,24,boa,carro ou outro,eletronico,aluguel,4,1
+0,0,0,desempregado,baixa,1,0,1,sem conta,2,9294,Nao,1,9,boa,imovel,carro novo,proprio,4,0
+0,0,0,nivel medio,sem conta,1,2,2,baixa,1,9312,Nao,6,24,boa,carro ou outro,eletronico,proprio,3,0
+0,0,0,nivel medio,negativa,1,2,1,baixa,3,9318,Nao,3,18,boa,carro ou outro,mobiliario,proprio,4,1
+0,0,0,nivel medio,sem conta,2,0,2,muito_alta,4,9330,Nao,12,12,pobre,Nao,reformas,gratis,4,1
+0,0,0,operario,sem conta,1,0,1,media,4,9408,Nao,4,18,boa,seguro de vida,empresa,aluguel,3,0
+0,0,0,operario,sem conta,1,1,2,media,4,9414,Nao,8,15,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,operario,sem conta,1,2,1,muito_alta,4,9432,Nao,10,21,boa,imovel,empresa,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,9444,Nao,4,12,boa,imovel,mobiliario,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,1,muito_alta,1,9462,Nao,1,11,boa,imovel,mobiliario,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,muito_alta,4,9492,Nao,10,18,muito pobre,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,3,9510,Nao,7,24,muito pobre,seguro de vida,mobiliario,proprio,4,0
+0,0,0,nivel alto,sem conta,2,0,1,media,3,9546,Nao,5,21,pobre,imovel,mobiliario,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,muito_alta,2,9552,Nao,6,12,muito pobre,seguro de vida,mobiliario,proprio,3,0
+0,0,0,nivel medio,sem conta,1,0,2,baixa,2,9570,Nao,6,6,boa,seguro de vida,eletronico,proprio,3,0
+0,0,0,operario,sem conta,1,0,2,alta,2,9582,Nao,2,10,boa,Nao,carro novo,aluguel,3,0
+0,0,0,nivel medio,sem conta,2,0,2,baixa,4,9582,Nao,11,24,muito pobre,Nao,educacao,gratis,4,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,9618,Nao,9,24,boa,carro ou outro,eletronico,proprio,4,0
+1,0,0,nivel medio,negativa,1,0,1,baixa,3,9720,Nao,2,12,boa,seguro de vida,mobiliario,proprio,2,0
+0,0,0,operario,negativa,2,0,2,sem conta,2,9882,Nao,2,21,boa,seguro de vida,carro novo,proprio,4,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,2,9942,Nao,2,12,boa,imovel,mobiliario,proprio,2,0
+0,0,0,nivel medio,negativa,1,0,1,alta,1,10080,Nao,10,12,boa,imovel,eletronico,proprio,3,0
+0,0,0,nivel medio,baixa,1,0,1,sem conta,1,10290,Nao,4,30,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,3,10326,Nao,1,15,boa,imovel,carro novo,proprio,2,0
+0,0,0,operario,sem conta,1,0,1,baixa,4,10416,Nao,5,12,boa,imovel,mobiliario,proprio,3,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,2,10440,Nao,11,6,muito pobre,imovel,eletronico,aluguel,2,0
+0,0,0,operario,sem conta,2,0,1,media,2,10458,Nao,2,6,pobre,imovel,empresa,proprio,1,0
+0,0,0,operario,baixa,2,0,1,baixa,2,10458,Nao,12,24,muito pobre,seguro de vida,eletronico,proprio,4,0
+1,0,0,operario,negativa,1,0,1,baixa,1,10482,Nao,1,24,boa,seguro de vida,mobiliario,proprio,4,0
+0,0,0,operario,sem conta,1,1,2,alta,4,10500,Nao,15,6,boa,seguro de vida,eletronico,proprio,2,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,10596,Nao,4,6,boa,seguro de vida,mobiliario,aluguel,1,0
+0,0,0,operario,sem conta,1,0,1,baixa,2,10608,Nao,3,12,boa,imovel,mobiliario,aluguel,3,0
+0,0,0,desempregado,baixa,2,0,1,baixa,1,10668,Nao,1,15,boa,imovel,carro novo,aluguel,2,1
+0,0,0,operario,negativa,2,2,1,baixa,1,10782,Nao,1,13,muito pobre,seguro de vida,empresa,proprio,3,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,2,10800,Nao,2,18,muito pobre,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,1,media,4,10824,Nao,1,12,muito pobre,seguro de vida,carro_usado,proprio,3,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,2,10902,Nao,4,18,muito pobre,Nao,mobiliario,proprio,4,0
+0,0,2,nivel alto,negativa,1,0,2,baixa,2,10938,Nao,0,24,boa,carro ou outro,eletronico,proprio,4,1
+0,0,0,operario,baixa,1,2,1,baixa,4,11022,Nao,6,24,boa,Nao,educacao,gratis,4,1
+0,1,0,nivel medio,negativa,1,0,1,baixa,1,11070,Nao,1,15,boa,seguro de vida,mobiliario,aluguel,4,0
+0,0,0,nivel medio,sem conta,2,0,1,media,2,11184,Nao,3,18,muito pobre,imovel,educacao,proprio,4,1
+0,0,0,nivel medio,negativa,2,2,1,baixa,4,11292,Nao,4,18,boa,carro ou outro,eletronico,aluguel,4,1
+0,0,0,nivel medio,baixa,2,1,1,sem conta,4,11322,Nao,3,18,muito pobre,imovel,empresa,proprio,4,0
+0,0,0,operario,sem conta,2,0,2,sem conta,2,11388,Nao,2,6,muito pobre,imovel,eletronico,proprio,1,0
+0,0,1,nivel alto,baixa,2,0,1,media,3,11514,Nao,1,30,pobre,Nao,eletronico,proprio,4,1
+0,0,0,operario,baixa,1,0,1,baixa,2,11532,Nao,2,12,boa,seguro de vida,mobiliario,proprio,4,1
+0,0,0,nivel medio,baixa,1,0,1,sem conta,3,11544,Nao,1,18,boa,imovel,mobiliario,aluguel,4,1
+0,0,0,nivel medio,alta,1,0,1,baixa,2,11550,Nao,4,24,boa,imovel,mobiliario,proprio,2,0
+0,0,0,operario,baixa,2,0,1,baixa,2,11568,Nao,1,18,muito pobre,imovel,mobiliario,proprio,2,1
+0,0,0,nivel medio,sem conta,2,0,1,baixa,2,11604,Nao,8,12,muito pobre,Nao,eletronico,proprio,2,0
+0,0,0,operario,negativa,2,0,1,sem conta,4,11616,Nao,7,18,boa,carro ou outro,eletronico,aluguel,2,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,3,11628,Nao,1,24,boa,seguro de vida,eletronico,proprio,4,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,11742,Nao,7,6,muito pobre,carro ou outro,eletronico,proprio,1,0
+0,0,0,nivel alto,alta,1,0,1,baixa,2,11766,Nao,15,18,boa,carro ou outro,carro novo,proprio,3,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,2,11874,Nao,16,15,boa,carro ou outro,eletronico,proprio,4,0
+1,0,0,nivel medio,sem conta,2,0,1,baixa,2,11880,Nao,1,9,boa,carro ou outro,mobiliario,aluguel,2,1
+0,0,0,nivel medio,sem conta,2,1,1,baixa,4,11904,Nao,4,18,boa,Nao,mobiliario,gratis,4,0
+0,0,0,operario,negativa,1,0,2,baixa,4,11922,Nao,4,24,boa,imovel,eletronico,aluguel,2,1
+0,0,0,nivel medio,baixa,1,0,1,media,1,11970,Nao,1,12,muito pobre,carro ou outro,carro novo,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,2,12072,Nao,7,12,muito pobre,carro ou outro,educacao,proprio,4,0
+0,0,0,operario,sem conta,2,0,1,baixa,2,12168,Nao,7,24,muito pobre,seguro de vida,mobiliario,proprio,2,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,1,12306,Nao,1,18,boa,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,1,12414,Nao,4,10,muito pobre,carro ou outro,mobiliario,proprio,2,0
+0,0,0,operario,sem conta,1,0,2,baixa,3,12576,Nao,5,12,muito pobre,imovel,educacao,proprio,2,0
+0,1,0,operario,baixa,1,0,1,baixa,4,12606,Nao,1,13,boa,seguro de vida,eletronico,proprio,2,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,12648,Nao,7,6,boa,imovel,eletronico,aluguel,2,0
+0,0,0,operario,baixa,1,0,2,baixa,2,12708,Nao,3,9,boa,imovel,eletronico,proprio,2,0
+0,0,0,nivel medio,negativa,2,0,1,baixa,2,12726,Nao,3,12,muito pobre,seguro de vida,carro novo,proprio,4,0
+0,0,0,nivel medio,negativa,2,0,1,baixa,4,12744,Nao,2,18,muito pobre,imovel,mobiliario,aluguel,4,1
+1,0,0,nivel medio,negativa,2,0,1,sem conta,3,12792,Nao,1,10,muito pobre,imovel,mobiliario,aluguel,2,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,2,12816,Nao,3,9,boa,imovel,mobiliario,proprio,3,0
+0,0,0,nivel medio,sem conta,1,0,1,media,1,12846,Nao,6,12,boa,Nao,eletronico,proprio,3,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,3,12876,Nao,1,10,muito pobre,imovel,mobiliario,aluguel,1,0
+0,0,0,nivel medio,sem conta,1,2,1,baixa,2,13026,Nao,1,12,boa,carro ou outro,eletronico,proprio,2,0
+0,0,0,operario,negativa,2,2,1,baixa,4,13026,Nao,3,12,muito pobre,seguro de vida,carro novo,proprio,4,0
+0,0,0,nivel medio,baixa,2,0,1,sem conta,4,13086,Nao,16,30,muito pobre,imovel,carro novo,proprio,4,0
+0,0,0,operario,sem conta,1,1,1,sem conta,4,13116,Nao,5,15,boa,imovel,mobiliario,aluguel,1,0
+0,0,0,operario,sem conta,1,2,1,baixa,2,13260,Nao,4,10,boa,imovel,mobiliario,aluguel,2,1
+0,0,0,operario,negativa,1,0,1,baixa,3,13284,Nao,3,12,boa,seguro de vida,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,alta,4,13326,Nao,4,15,boa,carro ou outro,mobiliario,aluguel,2,0
+0,0,0,nivel medio,sem conta,2,2,1,media,4,13338,Nao,8,24,muito pobre,seguro de vida,eletronico,proprio,4,0
+0,1,0,nivel medio,negativa,2,2,1,baixa,2,13410,Nao,4,20,muito pobre,seguro de vida,carro novo,aluguel,4,1
+0,0,0,nivel medio,sem conta,2,0,1,baixa,1,13428,Nao,2,18,muito pobre,carro ou outro,eletronico,proprio,2,0
+0,0,0,operario,negativa,2,0,2,baixa,3,13446,Nao,1,10,muito pobre,imovel,carro novo,aluguel,1,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,2,13446,Nao,11,21,boa,imovel,mobiliario,proprio,4,0
+0,0,0,operario,alta,1,0,1,baixa,2,13506,Nao,3,12,boa,carro ou outro,mobiliario,proprio,1,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,1,13530,Nao,1,24,boa,seguro de vida,carro novo,proprio,4,0
+0,0,0,nivel medio,baixa,2,0,2,baixa,1,13638,Nao,7,36,boa,carro ou outro,educacao,proprio,3,0
+0,0,0,nivel medio,sem conta,1,0,1,alta,4,13794,Nao,11,36,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,13812,Nao,3,36,boa,carro ou outro,eletronico,aluguel,4,1
+1,0,0,nivel medio,negativa,1,0,1,baixa,1,13818,Nao,14,24,boa,imovel,carro novo,proprio,4,1
+0,0,0,operario,negativa,1,0,1,baixa,4,13890,Nao,9,10,boa,imovel,eletronico,proprio,3,0
+0,0,0,nivel medio,alta,1,0,1,baixa,1,13914,Nao,1,21,muito pobre,carro ou outro,educacao,aluguel,2,1
+0,0,0,nivel medio,sem conta,2,0,1,baixa,3,13920,Nao,0,18,pobre,imovel,eletronico,proprio,2,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,4,13938,Nao,5,36,boa,carro ou outro,eletronico,aluguel,4,0
+0,0,0,nivel medio,negativa,1,1,1,media,3,13950,Nao,6,24,boa,carro ou outro,carro novo,proprio,2,0
+0,0,0,nivel medio,baixa,1,2,1,alta,4,13956,Nao,3,15,muito pobre,carro ou outro,empresa,proprio,2,0
+0,0,0,operario,alta,1,0,1,baixa,3,13962,Nao,1,15,boa,imovel,eletronico,proprio,2,1
+0,1,0,nivel medio,baixa,1,0,1,baixa,1,13974,Nao,1,7,boa,imovel,eletronico,proprio,1,0
+0,0,0,operario,baixa,1,1,1,sem conta,2,13998,Nao,1,24,pobre,seguro de vida,mobiliario,proprio,4,0
+0,0,0,nivel alto,sem conta,1,2,1,alta,2,13998,Nao,15,30,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,4,14022,Nao,11,36,muito pobre,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,baixa,2,0,1,baixa,4,14118,Nao,2,21,pobre,seguro de vida,carro novo,proprio,1,0
+0,0,0,nivel medio,negativa,1,0,1,media,1,14154,Nao,0,24,boa,seguro de vida,mobiliario,proprio,1,1
+0,0,0,operario,negativa,1,1,1,baixa,4,14304,Nao,9,24,boa,imovel,eletronico,aluguel,4,0
+0,0,0,operario,baixa,1,0,1,baixa,1,14304,Nao,1,36,boa,Nao,reformas,aluguel,4,1
+0,0,1,nivel medio,negativa,1,0,1,baixa,1,14334,Nao,1,18,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,4,14364,Nao,3,36,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,2,14424,Nao,4,18,muito pobre,carro ou outro,eletronico,proprio,2,0
+0,0,0,nivel alto,sem conta,1,0,1,baixa,3,14436,Nao,0,9,muito pobre,carro ou outro,mobiliario,proprio,2,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,14436,Nao,5,30,boa,imovel,mobiliario,aluguel,4,1
+0,1,0,nivel medio,baixa,1,0,1,baixa,2,14490,Nao,2,7,boa,imovel,eletronico,proprio,3,0
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,4,14544,Nao,9,24,muito pobre,seguro de vida,eletronico,proprio,4,0
+0,0,0,desempregado,negativa,1,0,1,baixa,1,14838,Nao,0,18,boa,carro ou outro,mobiliario,proprio,4,1
+0,0,1,nivel medio,baixa,2,0,1,media,2,15018,Nao,13,30,pobre,seguro de vida,empresa,proprio,4,0
+0,0,0,operario,sem conta,1,0,1,alta,4,15042,Nao,14,9,boa,Nao,carro novo,gratis,2,0
+0,0,0,operario,baixa,2,0,1,alta,2,15120,Nao,4,27,muito pobre,seguro de vida,eletronico,proprio,4,1
+0,1,0,nivel medio,negativa,1,0,2,baixa,3,15132,Nao,16,30,boa,seguro de vida,eletronico,proprio,1,0
+0,0,0,operario,sem conta,2,0,2,baixa,4,15228,Nao,13,24,pobre,carro ou outro,carro novo,proprio,4,1
+0,0,0,nivel medio,sem conta,1,0,1,alta,4,15414,Nao,4,39,boa,carro ou outro,carro_usado,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,3,15420,Nao,4,27,boa,imovel,carro novo,aluguel,3,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,1,15462,Nao,4,12,boa,carro ou outro,mobiliario,proprio,2,0
+0,0,0,operario,negativa,1,0,2,baixa,1,15474,Nao,1,12,boa,imovel,carro novo,proprio,4,1
+0,0,0,operario,sem conta,1,1,2,alta,2,15480,Nao,1,21,pobre,imovel,empresa,proprio,4,1
+0,0,0,nivel medio,negativa,2,0,1,baixa,4,15600,Nao,4,18,boa,Nao,eletronico,gratis,4,1
+1,0,0,nivel medio,sem conta,2,0,1,baixa,3,15666,Nao,12,24,muito pobre,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,2,15678,Nao,2,36,boa,carro ou outro,reformas,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,1,media,4,15732,Nao,2,18,boa,carro ou outro,empresa,proprio,4,0
+0,0,0,operario,baixa,1,0,1,media,2,15786,Nao,2,15,boa,imovel,reformas,proprio,3,0
+0,0,0,nivel medio,negativa,1,0,2,alta,3,15882,Nao,3,6,boa,imovel,eletronico,aluguel,2,0
+0,0,0,nivel medio,negativa,1,0,1,muito_alta,2,15954,Nao,2,18,boa,carro ou outro,mobiliario,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,alta,4,16050,Nao,12,22,boa,carro ou outro,eletronico,proprio,3,0
+0,0,0,operario,sem conta,2,0,1,baixa,2,16104,Nao,4,24,muito pobre,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,2,baixa,2,16182,Nao,2,9,boa,imovel,eletronico,proprio,1,0
+0,0,0,operario,sem conta,2,1,1,baixa,3,16248,Nao,1,15,boa,seguro de vida,mobiliario,proprio,2,0
+0,0,0,nivel medio,negativa,1,1,2,baixa,2,16272,Nao,11,36,boa,seguro de vida,mobiliario,proprio,2,1
+0,0,0,nivel medio,sem conta,2,0,1,baixa,2,16458,Nao,16,28,muito pobre,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,negativa,1,1,1,baixa,4,16476,Nao,8,36,boa,carro ou outro,mobiliario,proprio,4,1
+0,0,0,operario,baixa,2,1,1,media,2,16602,Nao,10,21,boa,carro ou outro,empresa,aluguel,4,1
+0,0,0,nivel medio,sem conta,2,2,1,baixa,2,16650,Nao,7,18,muito pobre,seguro de vida,carro novo,proprio,2,1
+0,0,0,nivel alto,sem conta,1,1,1,alta,2,16692,Nao,5,21,boa,carro ou outro,carro novo,proprio,1,0
+1,0,0,nivel medio,sem conta,2,1,1,baixa,3,16728,Nao,5,15,muito pobre,carro ou outro,mobiliario,proprio,2,0
+0,0,0,nivel medio,negativa,2,0,2,baixa,2,16794,Nao,2,9,muito pobre,imovel,carro novo,aluguel,2,0
+0,0,0,nivel medio,baixa,2,0,1,baixa,4,16920,Nao,1,36,muito pobre,carro ou outro,carro novo,proprio,4,1
+0,0,0,nivel medio,sem conta,1,0,1,alta,4,17010,Nao,15,24,boa,seguro de vida,mobiliario,proprio,3,0
+1,0,0,nivel medio,sem conta,1,0,2,media,2,17088,Nao,3,10,boa,imovel,carro_usado,proprio,1,0
+0,0,0,nivel medio,baixa,1,0,1,media,3,17172,Nao,10,36,pobre,Nao,carro novo,gratis,4,0
+0,0,0,operario,alta,1,0,2,baixa,1,17184,Nao,2,18,boa,imovel,mobiliario,proprio,2,1
+0,0,0,nivel medio,alta,1,0,1,baixa,4,17352,Nao,9,24,boa,Nao,mobiliario,gratis,3,0
+0,0,0,nivel medio,baixa,1,0,2,sem conta,4,17394,Nao,15,18,pobre,carro ou outro,carro novo,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,4,17406,Nao,1,10,boa,imovel,carro_usado,aluguel,1,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,1,17580,Nao,5,12,boa,imovel,eletronico,proprio,2,0
+0,0,0,nivel medio,baixa,2,0,1,baixa,3,17814,Nao,1,12,boa,seguro de vida,mobiliario,aluguel,4,1
+0,0,0,nivel medio,baixa,1,0,1,sem conta,4,17946,Nao,16,30,boa,carro ou outro,eletronico,proprio,2,0
+0,0,1,operario,sem conta,2,0,1,baixa,2,17958,Nao,4,21,pobre,imovel,carro_usado,proprio,3,0
+0,0,0,nivel medio,negativa,1,0,1,sem conta,4,17976,Nao,4,24,boa,carro ou outro,mobiliario,proprio,2,1
+0,0,0,nivel medio,baixa,1,0,1,baixa,4,18006,Nao,5,18,boa,imovel,mobiliario,aluguel,2,0
+0,0,0,nivel medio,alta,1,0,1,baixa,1,18096,Nao,4,12,boa,carro ou outro,eletronico,proprio,3,0
+0,0,0,nivel alto,baixa,1,0,1,baixa,1,18102,Nao,1,12,boa,imovel,mobiliario,aluguel,3,0
+0,0,0,nivel medio,alta,1,0,1,baixa,4,18102,Nao,10,30,muito pobre,seguro de vida,eletronico,proprio,4,0
+0,0,0,operario,negativa,1,0,1,baixa,2,18126,Nao,4,24,boa,imovel,mobiliario,aluguel,2,0
+0,1,0,nivel medio,baixa,1,0,1,media,4,18186,Nao,3,45,boa,seguro de vida,eletronico,aluguel,4,1
+0,0,1,operario,alta,1,0,1,baixa,1,18294,Nao,1,18,boa,seguro de vida,mobiliario,proprio,1,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,18306,Nao,4,48,boa,carro ou outro,eletrodomestico,proprio,3,1
+0,0,0,operario,sem conta,1,0,1,muito_alta,4,18354,Nao,5,12,boa,imovel,eletronico,proprio,2,0
+0,0,0,nivel medio,baixa,2,0,1,baixa,4,18360,Nao,7,48,boa,imovel,eletronico,proprio,4,1
+0,0,0,nivel medio,baixa,1,0,1,media,4,18414,Nao,15,24,boa,Nao,mobiliario,gratis,4,0
+0,0,0,nivel medio,sem conta,2,0,2,sem conta,2,18444,Nao,2,9,muito pobre,imovel,eletronico,proprio,1,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,4,18474,Nao,4,36,boa,imovel,carro novo,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,2,18630,Nao,1,24,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,operario,negativa,1,0,1,baixa,4,18648,Nao,1,30,boa,seguro de vida,mobiliario,proprio,2,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,18684,Nao,1,18,boa,seguro de vida,mobiliario,aluguel,1,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,2,19140,Nao,4,18,boa,imovel,eletronico,proprio,2,1
+0,0,0,operario,baixa,1,0,1,sem conta,2,19170,Nao,4,9,boa,imovel,carro novo,proprio,1,0
+0,0,0,nivel medio,baixa,1,0,1,alta,3,19278,Nao,1,18,boa,imovel,eletronico,aluguel,1,0
+0,0,1,nivel medio,sem conta,1,0,1,baixa,4,19986,Nao,8,12,muito pobre,seguro de vida,mobiliario,proprio,2,0
+0,0,0,nivel medio,negativa,1,2,1,muito_alta,2,20142,Nao,1,21,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,2,baixa,1,20280,Nao,6,4,muito pobre,imovel,carro novo,proprio,1,0
+1,0,0,desempregado,negativa,2,0,1,baixa,4,20364,Nao,0,42,muito pobre,carro ou outro,reformas,proprio,4,0
+0,0,0,operario,negativa,2,0,1,baixa,4,20388,Nao,7,8,muito pobre,imovel,carro novo,proprio,1,0
+0,0,0,nivel alto,alta,1,0,1,sem conta,3,20394,Nao,13,12,boa,carro ou outro,eletronico,proprio,2,0
+0,0,0,nivel medio,negativa,2,0,1,baixa,1,20484,Nao,1,21,pobre,seguro de vida,educacao,proprio,2,1
+0,0,0,nivel alto,negativa,1,0,1,baixa,2,20496,Nao,4,27,boa,carro ou outro,eletronico,proprio,3,0
+0,0,0,nivel medio,negativa,1,0,2,baixa,2,20676,Nao,11,36,boa,carro ou outro,mobiliario,proprio,4,1
+0,0,0,nivel medio,sem conta,1,0,1,media,4,20928,Nao,6,24,boa,carro ou outro,carro_usado,proprio,3,0
+0,1,0,nivel medio,negativa,1,0,1,baixa,1,21054,Nao,5,18,boa,imovel,eletronico,proprio,4,0
+0,1,0,nivel medio,sem conta,1,0,1,baixa,3,21108,Nao,4,6,boa,seguro de vida,carro novo,aluguel,2,0
+0,0,0,nivel medio,negativa,1,1,1,baixa,4,21312,Nao,6,24,boa,carro ou outro,mobiliario,proprio,3,1
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,2,21336,Nao,4,15,boa,Nao,carro novo,proprio,3,0
+0,0,0,operario,sem conta,2,0,2,sem conta,1,21390,Nao,1,12,muito pobre,seguro de vida,educacao,proprio,2,0
+0,0,0,nivel medio,baixa,1,0,1,media,2,21396,Nao,6,48,boa,carro ou outro,empresa,proprio,4,0
+0,1,0,nivel medio,sem conta,1,0,2,media,2,21462,Nao,3,9,boa,imovel,carro novo,aluguel,1,0
+1,0,0,operario,negativa,1,0,2,baixa,2,21540,Nao,3,12,boa,seguro de vida,mobiliario,proprio,2,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,21570,Nao,16,36,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,operario,negativa,1,0,1,baixa,4,21594,Nao,5,21,boa,carro ou outro,mobiliario,aluguel,1,0
+1,0,0,nivel medio,alta,2,0,1,sem conta,4,21702,Nao,15,24,muito pobre,Nao,mobiliario,aluguel,4,0
+0,1,0,nivel medio,negativa,1,0,2,baixa,2,21720,Nao,3,36,boa,seguro de vida,mobiliario,proprio,1,0
+0,0,0,nivel medio,sem conta,2,0,1,media,4,21726,Nao,10,24,boa,carro ou outro,eletronico,proprio,2,1
+0,0,0,operario,negativa,2,0,1,baixa,4,21858,Nao,8,15,pobre,seguro de vida,mobiliario,proprio,1,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,21900,Nao,1,18,boa,carro ou outro,mobiliario,aluguel,1,0
+0,0,0,nivel medio,negativa,1,0,2,muito_alta,3,21906,Nao,3,12,boa,seguro de vida,carro novo,proprio,1,0
+0,0,0,nivel medio,baixa,2,0,1,baixa,3,21912,Nao,6,21,muito pobre,seguro de vida,empresa,proprio,2,0
+0,0,1,operario,alta,2,0,1,sem conta,4,21936,Nao,14,30,muito pobre,seguro de vida,eletronico,proprio,4,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,21960,Nao,2,24,boa,carro ou outro,eletronico,proprio,2,0
+0,0,0,nivel medio,negativa,3,0,2,baixa,3,22056,Nao,4,6,muito pobre,imovel,carro novo,aluguel,1,0
+0,0,0,nivel medio,baixa,1,0,1,sem conta,2,22266,Nao,4,36,boa,carro ou outro,educacao,proprio,2,0
+0,0,0,nivel medio,alta,1,0,1,baixa,4,22494,Nao,1,24,boa,carro ou outro,mobiliario,proprio,2,0
+1,0,0,operario,negativa,1,0,1,sem conta,2,22578,Nao,7,21,boa,imovel,carro novo,proprio,2,0
+0,0,0,operario,sem conta,1,0,1,sem conta,4,22992,Nao,13,9,boa,imovel,educacao,proprio,1,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,1,22992,Nao,1,30,boa,seguro de vida,mobiliario,proprio,2,0
+0,0,0,operario,baixa,1,0,2,media,4,23064,Nao,7,48,boa,Nao,empresa,gratis,4,1
+0,0,0,nivel medio,sem conta,2,0,1,baixa,1,23100,Nao,6,18,muito pobre,carro ou outro,carro_usado,proprio,3,0
+0,0,0,nivel medio,negativa,2,0,2,baixa,2,23430,Nao,2,11,muito pobre,imovel,carro novo,aluguel,2,0
+0,0,0,nivel medio,sem conta,1,1,1,sem conta,2,23484,Nao,4,48,boa,imovel,empresa,proprio,4,1
+0,0,0,nivel medio,negativa,1,0,2,baixa,4,23586,Nao,6,48,boa,Nao,carro novo,gratis,4,1
+0,0,0,operario,negativa,2,0,2,baixa,2,23634,Nao,4,11,muito pobre,imovel,carro novo,proprio,1,0
+0,1,0,operario,alta,1,0,2,baixa,1,23694,Nao,1,10,boa,seguro de vida,carro novo,proprio,1,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,3,23790,Nao,1,42,boa,carro ou outro,eletronico,proprio,4,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,23838,Nao,0,14,boa,Nao,carro novo,gratis,1,0
+0,0,0,desempregado,baixa,1,1,1,sem conta,2,23940,Nao,1,36,boa,Nao,eletrodomestico,proprio,3,0
+0,0,0,operario,negativa,1,0,1,baixa,2,24036,Nao,2,28,boa,carro ou outro,carro novo,proprio,3,1
+0,0,2,nivel medio,negativa,1,0,1,baixa,2,24120,Nao,2,24,boa,carro ou outro,mobiliario,proprio,2,0
+0,0,0,nivel medio,negativa,2,2,2,baixa,4,24660,Nao,16,24,boa,Nao,mobiliario,aluguel,3,1
+0,0,0,nivel medio,baixa,1,0,1,alta,4,24678,Nao,1,24,boa,carro ou outro,carro_usado,aluguel,3,1
+0,0,0,nivel medio,sem conta,2,0,1,media,3,24906,Nao,4,24,pobre,seguro de vida,mobiliario,proprio,2,0
+1,0,0,nivel medio,negativa,1,0,1,baixa,3,24918,Nao,3,18,boa,carro ou outro,mobiliario,proprio,2,1
+0,0,1,nivel medio,sem conta,2,0,2,baixa,2,24990,Nao,3,18,boa,carro ou outro,empresa,proprio,2,1
+0,0,0,nivel medio,alta,1,0,1,baixa,2,25260,Nao,3,36,boa,carro ou outro,eletronico,proprio,4,1
+0,0,0,nivel medio,baixa,2,0,1,baixa,1,25326,Nao,4,30,boa,carro ou outro,empresa,proprio,2,0
+0,0,0,nivel alto,baixa,2,0,1,baixa,2,25494,Nao,0,30,muito pobre,carro ou outro,carro novo,proprio,4,1
+0,0,0,nivel medio,negativa,2,0,1,baixa,4,25632,Nao,13,20,muito pobre,seguro de vida,mobiliario,proprio,1,0
+0,0,0,operario,baixa,2,0,1,media,4,25680,Nao,3,30,boa,carro ou outro,empresa,aluguel,4,1
+0,0,0,nivel medio,negativa,2,0,1,alta,4,25686,Nao,2,33,muito pobre,carro ou outro,mobiliario,proprio,1,1
+0,0,0,nivel medio,sem conta,2,0,1,baixa,4,26724,Nao,3,36,pobre,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,alta,1,0,1,baixa,2,26838,Nao,10,36,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,1,media,4,27456,Nao,0,45,muito pobre,carro ou outro,carro_usado,proprio,3,0
+0,1,0,nivel medio,negativa,2,0,1,baixa,2,27498,Nao,4,30,boa,imovel,mobiliario,proprio,2,0
+0,0,0,nivel medio,negativa,2,0,2,baixa,4,27630,Nao,11,48,boa,Nao,carro_usado,gratis,3,1
+0,0,0,operario,negativa,2,0,2,sem conta,3,28296,Nao,1,6,muito pobre,imovel,carro novo,proprio,1,0
+0,0,0,operario,baixa,1,1,1,baixa,4,28416,Nao,1,24,muito pobre,carro ou outro,mobiliario,proprio,2,1
+0,0,0,operario,baixa,2,0,1,baixa,2,28476,Nao,1,45,muito pobre,seguro de vida,eletronico,proprio,4,1
+0,0,0,nivel medio,baixa,1,0,1,baixa,4,28626,Nao,7,11,pobre,seguro de vida,eletronico,proprio,2,0
+0,0,0,nivel medio,negativa,1,0,2,baixa,3,28728,Nao,7,48,boa,seguro de vida,carro_usado,proprio,4,0
+0,0,0,nivel medio,alta,1,0,1,baixa,4,28776,Nao,16,42,muito pobre,Nao,carro_usado,gratis,4,0
+0,0,1,operario,sem conta,1,0,1,sem conta,4,28866,Nao,6,30,boa,seguro de vida,carro_usado,aluguel,2,0
+0,0,0,nivel medio,negativa,2,0,2,baixa,4,29220,Nao,4,24,pobre,Nao,carro novo,gratis,3,1
+0,0,0,nivel medio,sem conta,2,0,1,baixa,4,30702,Nao,5,27,pobre,carro ou outro,empresa,proprio,3,0
+0,0,0,nivel medio,alta,1,2,1,baixa,2,30912,Nao,7,24,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,2,31074,Nao,5,36,boa,seguro de vida,mobiliario,proprio,4,1
+0,0,0,nivel alto,baixa,2,0,1,baixa,2,31404,Nao,0,30,muito pobre,carro ou outro,carro novo,proprio,4,1
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,3,31488,Nao,4,21,boa,carro ou outro,carro_usado,proprio,1,0
+0,0,0,nivel medio,sem conta,1,0,1,alta,4,31944,Nao,13,15,boa,Nao,carro novo,gratis,1,0
+0,1,0,nivel medio,negativa,2,0,1,baixa,2,32226,Nao,2,36,muito pobre,seguro de vida,mobiliario,proprio,3,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,4,33042,Nao,8,24,muito pobre,Nao,reformas,gratis,3,0
+0,0,1,nivel medio,sem conta,1,0,1,media,1,33066,Nao,2,24,boa,carro ou outro,mobiliario,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,1,media,2,33570,Nao,4,72,boa,carro ou outro,eletronico,proprio,2,1
+0,0,0,nivel medio,sem conta,2,0,1,baixa,2,34626,Nao,7,30,muito pobre,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,muito_alta,2,34824,Nao,2,24,muito pobre,imovel,carro_usado,proprio,4,0
+0,0,0,nivel medio,alta,1,0,1,baixa,1,35088,Nao,3,36,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,operario,baixa,2,2,1,baixa,1,35724,Nao,6,42,muito pobre,imovel,empresa,proprio,2,0
+1,0,0,nivel medio,sem conta,1,0,1,baixa,2,35724,Nao,7,30,muito pobre,carro ou outro,eletronico,proprio,3,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,2,36468,Nao,7,12,boa,carro ou outro,carro novo,proprio,2,0
+0,0,1,operario,negativa,2,0,1,baixa,4,36858,Nao,10,48,muito pobre,Nao,carro_usado,gratis,4,1
+0,0,0,nivel medio,negativa,2,0,1,media,4,37122,Nao,6,30,muito pobre,carro ou outro,carro_usado,aluguel,1,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,4,37344,Nao,15,48,pobre,Nao,educacao,gratis,4,1
+0,0,0,operario,baixa,1,0,1,baixa,3,37560,Nao,5,18,boa,imovel,carro novo,aluguel,3,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,4,37728,Nao,4,60,boa,Nao,educacao,gratis,4,1
+0,0,0,nivel medio,alta,2,0,1,baixa,1,37734,Nao,1,42,boa,seguro de vida,empresa,proprio,2,0
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,4,37824,Nao,10,36,muito pobre,imovel,empresa,proprio,4,0
+0,0,0,nivel medio,negativa,1,0,1,sem conta,4,38100,Nao,10,30,boa,seguro de vida,mobiliario,proprio,4,1
+0,0,0,nivel medio,baixa,1,0,1,baixa,2,38418,Nao,1,24,pobre,carro ou outro,eletronico,proprio,1,0
+0,0,1,operario,negativa,1,0,1,baixa,2,39408,Nao,3,24,boa,carro ou outro,empresa,proprio,2,0
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,3,40452,Nao,7,30,muito pobre,seguro de vida,eletronico,proprio,2,0
+0,0,0,nivel medio,negativa,2,0,2,baixa,4,42714,Nao,3,48,boa,Nao,mobiliario,gratis,3,1
+0,0,0,operario,sem conta,2,0,1,baixa,4,43368,Nao,4,11,muito pobre,seguro de vida,carro novo,proprio,1,0
+0,0,0,nivel medio,sem conta,2,2,2,sem conta,3,43428,Nao,11,48,pobre,carro ou outro,eletronico,proprio,3,0
+1,0,0,nivel medio,negativa,1,0,1,baixa,4,43782,Nao,13,60,boa,Nao,empresa,aluguel,4,1
+0,0,0,operario,sem conta,1,0,2,baixa,4,44358,Nao,4,24,boa,seguro de vida,carro novo,proprio,1,0
+0,0,0,nivel alto,baixa,1,0,1,media,2,44448,Nao,1,60,boa,seguro de vida,carro novo,proprio,4,1
+0,0,0,operario,baixa,1,0,1,sem conta,1,44508,Nao,2,60,pobre,imovel,eletronico,proprio,1,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,2,44592,Nao,2,36,pobre,seguro de vida,carro novo,aluguel,2,0
+0,0,0,nivel alto,sem conta,2,1,2,sem conta,2,45774,Nao,10,48,muito pobre,carro ou outro,empresa,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,1,muito_alta,4,46548,Nao,13,24,muito pobre,Nao,carro_usado,aluguel,2,0
+0,0,0,nivel alto,negativa,1,1,1,baixa,4,46578,Nao,15,48,boa,Nao,carro novo,gratis,4,1
+0,1,0,nivel medio,negativa,1,0,2,baixa,4,47292,Nao,5,42,boa,seguro de vida,mobiliario,gratis,2,0
+0,0,0,nivel medio,baixa,2,0,1,baixa,3,47796,Nao,1,26,boa,carro ou outro,carro_usado,proprio,2,0
+0,0,0,nivel medio,negativa,3,1,1,sem conta,3,48432,Nao,1,30,boa,carro ou outro,empresa,proprio,2,0
+0,0,0,nivel medio,negativa,1,0,1,sem conta,4,50010,Nao,10,36,boa,Nao,carro_usado,gratis,3,1
+0,0,0,nivel medio,baixa,2,0,1,alta,1,50148,Nao,1,48,boa,carro ou outro,carro novo,proprio,1,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,2,50316,Nao,7,30,muito pobre,seguro de vida,mobiliario,proprio,2,1
+0,0,0,operario,sem conta,1,0,2,sem conta,2,56616,Nao,4,54,boa,seguro de vida,carro_usado,proprio,2,0
+0,0,2,nivel medio,sem conta,2,0,1,baixa,2,57396,Nao,4,36,muito pobre,carro ou outro,eletronico,proprio,2,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,1,57432,Nao,1,36,pobre,carro ou outro,empresa,proprio,1,1
+0,0,0,nivel medio,sem conta,1,1,1,alta,2,60762,Nao,4,48,muito pobre,Nao,carro novo,gratis,2,1
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,4,62862,Nao,11,36,muito pobre,Nao,carro_usado,gratis,2,0
+0,0,0,operario,sem conta,2,1,1,media,4,69540,Nao,4,48,muito pobre,carro ou outro,carro_usado,aluguel,2,1
+0,0,0,nivel medio,negativa,2,0,1,baixa,4,70896,Nao,11,45,boa,carro ou outro,empresa,aluguel,2,1
+1,0,0,nivel alto,negativa,1,0,1,baixa,3,95142,Nao,0,36,boa,carro ou outro,outro,proprio,2,0
+0,0,0,operario,negativa,4,0,1,baixa,3,2310,Sim,7,12,muito pobre,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,alta,1,0,1,baixa,4,2352,Sim,1,15,boa,seguro de vida,educacao,aluguel,4,0
+0,0,0,nivel medio,negativa,1,1,1,baixa,1,2568,Sim,11,6,boa,seguro de vida,mobiliario,proprio,2,0
+0,0,0,nivel medio,sem conta,2,0,2,alta,4,3132,Sim,13,12,muito pobre,seguro de vida,eletronico,proprio,4,0
+0,0,0,nivel alto,sem conta,2,2,1,alta,3,3774,Sim,16,18,muito pobre,seguro de vida,eletronico,proprio,4,0
+0,0,0,operario,negativa,1,0,2,baixa,4,3972,Sim,1,6,boa,imovel,carro novo,proprio,3,0
+0,0,0,operario,negativa,2,0,1,muito_alta,4,3996,Sim,6,6,muito pobre,imovel,carro novo,proprio,3,0
+0,0,0,nivel medio,sem conta,2,0,1,media,3,4092,Sim,6,12,muito pobre,carro ou outro,carro novo,proprio,4,0
+0,0,0,nivel medio,negativa,2,1,1,baixa,2,4182,Sim,1,12,boa,carro ou outro,carro novo,proprio,4,1
+0,0,0,operario,negativa,1,0,1,media,3,4362,Sim,1,12,boa,Nao,eletronico,proprio,4,1
+0,0,0,operario,sem conta,2,0,1,sem conta,2,4380,Sim,10,7,muito pobre,seguro de vida,eletronico,aluguel,4,0
+0,0,0,nivel medio,alta,2,0,1,baixa,4,4686,Sim,10,10,muito pobre,Nao,carro novo,gratis,4,0
+0,0,0,nivel medio,negativa,2,0,1,baixa,4,5160,Sim,12,6,muito pobre,Nao,carro novo,proprio,1,0
+0,0,0,nivel medio,baixa,1,1,2,baixa,4,5304,Sim,10,18,muito pobre,carro ou outro,carro novo,proprio,4,1
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,3,5364,Sim,7,10,boa,seguro de vida,requalificacao,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,2,5442,Sim,1,8,boa,imovel,empresa,proprio,3,0
+0,0,1,nivel medio,sem conta,1,0,1,sem conta,2,5574,Sim,6,24,boa,carro ou outro,mobiliario,proprio,4,0
+0,0,0,nivel medio,alta,3,0,1,alta,2,5634,Sim,5,12,muito pobre,imovel,carro novo,proprio,4,1
+0,0,1,nivel alto,baixa,2,0,1,baixa,1,6300,Sim,0,6,pobre,seguro de vida,mobiliario,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,6456,Sim,4,12,boa,imovel,empresa,proprio,2,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,2,6606,Sim,3,12,boa,imovel,carro novo,proprio,3,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,2,6756,Sim,1,18,boa,imovel,eletronico,aluguel,4,0
+0,0,0,nivel medio,baixa,1,0,1,alta,1,6948,Sim,2,12,boa,carro ou outro,eletronico,proprio,3,0
+0,0,0,nivel medio,sem conta,1,0,1,alta,4,6978,Sim,4,12,muito pobre,imovel,carro novo,proprio,4,0
+0,0,0,nivel alto,negativa,2,2,2,baixa,4,6984,Sim,8,8,muito pobre,Nao,outro,gratis,3,0
+0,0,0,nivel medio,negativa,2,0,1,sem conta,4,7014,Sim,12,6,muito pobre,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,3,7014,Sim,2,18,muito pobre,seguro de vida,eletronico,proprio,4,0
+0,0,0,nivel alto,baixa,2,0,1,baixa,4,7194,Sim,7,9,boa,seguro de vida,educacao,proprio,4,0
+0,0,0,nivel alto,baixa,1,0,1,baixa,4,7254,Sim,0,6,pobre,seguro de vida,carro novo,proprio,4,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,3,7296,Sim,1,18,boa,carro ou outro,carro novo,aluguel,4,1
+0,0,0,operario,negativa,1,0,1,baixa,3,7302,Sim,2,18,boa,imovel,eletrodomestico,proprio,4,1
+0,0,0,nivel medio,alta,1,0,1,baixa,2,7350,Sim,3,10,boa,carro ou outro,eletrodomestico,proprio,2,0
+0,0,0,nivel alto,negativa,2,0,1,muito_alta,4,7386,Sim,14,24,muito pobre,seguro de vida,eletronico,aluguel,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,4,7416,Sim,1,9,boa,imovel,eletrodomestico,aluguel,1,0
+0,0,0,nivel alto,sem conta,1,0,2,sem conta,4,7428,Sim,0,6,boa,seguro de vida,requalificacao,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,2,7440,Sim,13,12,muito pobre,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,1,7548,Sim,7,24,boa,imovel,empresa,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,alta,3,7572,Sim,6,15,boa,seguro de vida,eletrodomestico,proprio,4,0
+0,0,0,nivel medio,alta,2,0,1,muito_alta,4,7650,Sim,4,24,muito pobre,imovel,empresa,proprio,2,0
+0,0,0,nivel alto,sem conta,1,0,1,baixa,1,7668,Sim,10,24,boa,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,muito_alta,4,7722,Sim,8,24,muito pobre,imovel,carro novo,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,media,3,7866,Sim,7,24,boa,seguro de vida,eletronico,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,1,muito_alta,4,7908,Sim,14,12,boa,imovel,carro novo,proprio,4,0
+0,0,0,nivel alto,alta,2,0,1,baixa,2,8022,Sim,1,9,boa,carro ou outro,eletronico,proprio,4,1
+0,0,0,nivel medio,alta,2,0,1,sem conta,2,8082,Sim,6,10,muito pobre,seguro de vida,eletronico,proprio,4,0
+0,0,0,desempregado,negativa,1,0,1,alta,2,8112,Sim,0,6,boa,seguro de vida,carro_usado,aluguel,1,0
+0,0,0,operario,baixa,1,0,1,baixa,4,8130,Sim,1,24,boa,carro ou outro,carro novo,proprio,3,1
+0,0,1,nivel alto,negativa,1,0,1,sem conta,3,8148,Sim,9,24,boa,carro ou outro,outro,proprio,4,1
+0,0,0,nivel medio,sem conta,1,0,1,baixa,4,8184,Sim,4,10,boa,carro ou outro,carro novo,proprio,2,0
+0,0,0,operario,negativa,1,2,1,baixa,2,8244,Sim,3,6,boa,imovel,mobiliario,proprio,1,0
+0,0,0,nivel alto,negativa,1,0,1,sem conta,3,8244,Sim,0,6,boa,seguro de vida,carro novo,proprio,4,0
+0,0,0,nivel medio,alta,1,0,1,media,2,8262,Sim,14,24,boa,Nao,eletronico,gratis,4,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,1,8292,Sim,4,6,muito pobre,carro ou outro,eletronico,proprio,1,0
+0,0,0,nivel medio,negativa,2,0,1,media,1,8292,Sim,5,24,muito pobre,imovel,empresa,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,2,8316,Sim,3,15,boa,imovel,eletronico,aluguel,4,0
+0,0,0,nivel medio,baixa,1,2,1,baixa,1,8346,Sim,2,9,boa,imovel,empresa,proprio,2,0
+0,0,0,nivel medio,sem conta,3,2,2,baixa,4,8358,Sim,16,12,boa,seguro de vida,educacao,proprio,4,0
+0,1,0,nivel medio,sem conta,1,0,1,baixa,2,8358,Sim,3,24,boa,imovel,carro novo,proprio,2,0
+0,0,0,nivel medio,sem conta,1,0,1,alta,4,8412,Sim,7,12,muito pobre,carro ou outro,mobiliario,aluguel,3,0
+0,0,0,operario,baixa,1,0,1,baixa,2,8460,Sim,3,12,boa,imovel,requalificacao,proprio,2,0
+0,1,0,nivel alto,sem conta,2,0,1,baixa,2,8472,Sim,2,12,muito pobre,imovel,empresa,proprio,4,0
+0,0,0,nivel alto,alta,1,0,1,sem conta,4,8544,Sim,13,12,boa,imovel,mobiliario,proprio,3,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,4,8826,Sim,2,15,muito pobre,Nao,eletronico,gratis,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,4,8838,Sim,1,18,boa,imovel,eletronico,proprio,3,0
+0,0,0,nivel alto,alta,1,1,1,baixa,1,8844,Sim,1,12,boa,seguro de vida,mobiliario,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,media,3,8844,Sim,1,24,boa,imovel,carro novo,proprio,4,0
+0,0,0,nivel medio,negativa,2,0,2,baixa,4,8868,Sim,11,15,muito pobre,carro ou outro,mobiliario,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,1,sem conta,1,8904,Sim,3,12,boa,imovel,eletronico,proprio,2,1
+0,0,0,nivel alto,baixa,2,0,1,baixa,3,9006,Sim,13,9,muito pobre,carro ou outro,educacao,proprio,2,1
+0,0,0,nivel medio,sem conta,1,0,2,muito_alta,3,9150,Sim,6,24,boa,carro ou outro,carro novo,proprio,4,0
+0,0,2,nivel medio,sem conta,1,0,1,baixa,3,9198,Sim,1,24,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,4,9252,Sim,6,12,boa,carro ou outro,empresa,proprio,2,0
+0,0,0,nivel medio,baixa,2,0,1,media,2,9318,Sim,7,24,pobre,seguro de vida,eletronico,aluguel,3,0
+0,0,0,nivel medio,sem conta,1,2,1,baixa,4,9354,Sim,5,24,boa,carro ou outro,empresa,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,1,9402,Sim,2,12,boa,carro ou outro,eletronico,proprio,1,0
+0,0,0,nivel medio,negativa,2,0,1,baixa,3,9612,Sim,14,21,muito pobre,carro ou outro,carro novo,proprio,4,0
+0,0,0,operario,sem conta,2,0,1,baixa,4,9930,Sim,9,12,muito pobre,imovel,eletronico,proprio,2,0
+0,0,0,operario,negativa,1,0,1,baixa,2,9954,Sim,1,24,pobre,carro ou outro,eletronico,aluguel,4,1
+0,0,0,nivel medio,baixa,1,0,1,baixa,2,10020,Sim,1,9,boa,carro ou outro,eletronico,proprio,4,1
+0,1,0,operario,negativa,1,0,1,baixa,4,10530,Sim,16,24,boa,imovel,outro,proprio,4,0
+0,1,0,operario,baixa,2,2,1,baixa,4,10770,Sim,9,18,muito pobre,imovel,eletronico,aluguel,3,0
+0,0,1,nivel medio,sem conta,1,0,1,baixa,4,10914,Sim,3,36,boa,Nao,educacao,gratis,4,1
+0,0,0,nivel alto,sem conta,1,0,1,baixa,2,10920,Sim,4,18,boa,seguro de vida,carro novo,proprio,2,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,4,10974,Sim,8,15,muito pobre,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,negativa,2,0,1,baixa,2,11010,Sim,2,21,boa,imovel,eletronico,proprio,3,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,11052,Sim,1,36,boa,carro ou outro,carro novo,proprio,4,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,11070,Sim,2,45,boa,Nao,eletronico,gratis,4,1
+0,1,0,nivel medio,sem conta,2,0,1,baixa,2,11106,Sim,5,24,muito pobre,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel alto,baixa,2,0,1,baixa,2,11160,Sim,0,12,muito pobre,carro ou outro,carro_usado,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,4,11202,Sim,14,30,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel alto,negativa,3,0,1,baixa,4,11232,Sim,0,6,muito pobre,Nao,mobiliario,gratis,4,0
+0,0,0,operario,alta,1,0,1,baixa,2,11286,Sim,3,12,boa,carro ou outro,eletronico,aluguel,2,0
+0,0,0,nivel alto,sem conta,1,0,1,baixa,4,11304,Sim,9,12,boa,carro ou outro,carro novo,proprio,4,0
+0,1,0,nivel medio,negativa,1,0,1,baixa,4,11358,Sim,3,12,boa,seguro de vida,carro novo,proprio,4,0
+0,0,0,nivel alto,sem conta,1,0,1,media,4,11406,Sim,3,24,boa,carro ou outro,eletronico,aluguel,4,0
+0,0,0,nivel alto,alta,1,0,1,baixa,4,11430,Sim,11,15,boa,carro ou outro,educacao,aluguel,4,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,3,11514,Sim,6,9,muito pobre,carro ou outro,mobiliario,aluguel,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,4,11544,Sim,2,10,boa,seguro de vida,eletronico,proprio,1,0
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,2,11562,Sim,3,24,muito pobre,carro ou outro,educacao,proprio,3,0
+0,0,0,nivel medio,sem conta,3,0,1,baixa,4,11610,Sim,13,12,muito pobre,imovel,mobiliario,proprio,4,0
+0,0,0,nivel medio,baixa,2,0,1,baixa,4,11610,Sim,15,24,muito pobre,imovel,empresa,proprio,4,1
+0,0,0,nivel medio,sem conta,1,0,1,muito_alta,4,11640,Sim,9,24,muito pobre,imovel,carro novo,proprio,4,0
+0,0,0,operario,baixa,1,0,1,muito_alta,2,11646,Sim,4,18,boa,seguro de vida,empresa,proprio,4,0
+0,0,2,nivel medio,sem conta,2,0,1,baixa,1,11700,Sim,5,18,boa,carro ou outro,empresa,proprio,4,0
+0,0,0,nivel alto,baixa,1,0,1,baixa,4,11718,Sim,13,36,boa,Nao,empresa,gratis,4,1
+0,0,0,nivel alto,sem conta,2,0,2,baixa,2,11778,Sim,7,12,boa,carro ou outro,eletronico,aluguel,4,0
+0,0,0,nivel medio,baixa,2,0,1,sem conta,4,11790,Sim,3,24,pobre,carro ou outro,carro novo,aluguel,4,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,4,11802,Sim,9,24,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel alto,negativa,1,0,1,sem conta,4,11862,Sim,8,36,boa,Nao,educacao,proprio,4,1
+0,0,0,nivel medio,baixa,1,0,2,baixa,4,12012,Sim,7,12,boa,seguro de vida,carro novo,aluguel,3,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,4,12132,Sim,3,24,muito pobre,carro ou outro,carro novo,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,1,sem conta,1,12180,Sim,6,9,boa,carro ou outro,mobiliario,proprio,2,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,4,12192,Sim,8,24,pobre,Nao,carro novo,gratis,4,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,1,12234,Sim,1,24,boa,seguro de vida,eletronico,proprio,1,1
+0,0,0,nivel medio,sem conta,2,0,1,baixa,2,12348,Sim,3,24,muito pobre,imovel,reformas,proprio,4,0
+0,0,0,nivel alto,baixa,1,0,1,baixa,3,12378,Sim,1,6,boa,carro ou outro,eletronico,aluguel,4,0
+0,0,0,nivel alto,baixa,1,0,1,baixa,2,12384,Sim,0,24,pobre,seguro de vida,mobiliario,proprio,3,1
+0,0,0,nivel medio,alta,1,0,1,baixa,2,12696,Sim,4,6,boa,imovel,mobiliario,proprio,2,0
+0,0,0,nivel medio,sem conta,3,0,1,baixa,4,12804,Sim,3,9,muito pobre,carro ou outro,carro novo,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,muito_alta,2,12852,Sim,9,11,boa,imovel,empresa,proprio,1,0
+0,0,1,nivel medio,alta,2,0,1,baixa,2,13482,Sim,3,12,pobre,carro ou outro,carro novo,proprio,2,0
+0,0,0,nivel alto,negativa,1,0,2,media,3,13494,Sim,5,18,boa,carro ou outro,carro novo,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,4,13674,Sim,2,12,boa,Nao,eletronico,gratis,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,13704,Sim,5,24,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,4,13728,Sim,1,21,muito pobre,seguro de vida,mobiliario,proprio,4,0
+0,0,1,nivel alto,sem conta,2,0,1,baixa,2,13752,Sim,0,12,muito pobre,carro ou outro,empresa,proprio,4,1
+0,0,0,nivel medio,sem conta,2,0,1,baixa,3,14076,Sim,7,24,muito pobre,carro ou outro,carro_usado,proprio,4,0
+0,0,0,nivel medio,negativa,2,0,1,baixa,2,14088,Sim,2,36,muito pobre,seguro de vida,mobiliario,proprio,3,0
+0,0,0,nivel alto,baixa,1,0,1,alta,3,14196,Sim,5,12,muito pobre,carro ou outro,carro novo,proprio,3,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,3,14340,Sim,9,12,boa,carro ou outro,carro novo,proprio,4,0
+0,0,0,nivel medio,sem conta,2,1,1,alta,2,14382,Sim,10,24,boa,carro ou outro,eletronico,proprio,3,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,14634,Sim,1,24,boa,imovel,eletronico,proprio,4,1
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,4,14670,Sim,1,12,boa,carro ou outro,carro_usado,aluguel,2,0
+0,0,0,nivel medio,sem conta,2,0,1,media,3,14778,Sim,7,24,muito pobre,seguro de vida,carro novo,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,4,15090,Sim,3,18,boa,imovel,mobiliario,proprio,3,0
+0,0,0,nivel medio,baixa,1,0,2,baixa,1,15168,Sim,1,27,boa,seguro de vida,empresa,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,muito_alta,4,15618,Sim,2,24,boa,carro ou outro,carro_usado,aluguel,2,0
+0,0,0,nivel alto,negativa,1,0,1,baixa,4,15636,Sim,1,21,boa,seguro de vida,eletronico,aluguel,4,0
+0,1,0,nivel medio,negativa,1,2,1,baixa,4,15750,Sim,16,16,muito pobre,seguro de vida,carro novo,aluguel,2,1
+0,0,0,nivel medio,baixa,2,2,1,baixa,3,15774,Sim,4,20,pobre,carro ou outro,outro,proprio,2,0
+0,0,0,nivel medio,baixa,2,0,1,media,4,15786,Sim,2,15,boa,carro ou outro,carro novo,aluguel,2,1
+0,0,0,nivel alto,sem conta,1,0,1,baixa,4,16020,Sim,16,24,boa,carro ou outro,carro_usado,proprio,4,0
+0,0,0,nivel alto,sem conta,1,0,1,baixa,1,16074,Sim,1,24,boa,Nao,carro_usado,proprio,4,0
+0,0,0,nivel medio,alta,1,0,1,baixa,4,16122,Sim,6,15,boa,seguro de vida,empresa,aluguel,2,0
+0,0,0,operario,baixa,1,0,1,baixa,4,16308,Sim,4,24,boa,seguro de vida,carro novo,aluguel,3,1
+0,1,0,nivel medio,baixa,3,1,1,sem conta,2,16368,Sim,6,15,muito pobre,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,2,sem conta,3,16506,Sim,8,48,muito pobre,carro ou outro,carro_usado,proprio,4,0
+1,0,0,nivel medio,sem conta,1,0,1,media,4,16518,Sim,13,9,boa,carro ou outro,eletronico,proprio,3,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,2,16584,Sim,3,33,pobre,carro ou outro,empresa,proprio,2,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,3,16674,Sim,4,18,boa,carro ou outro,carro_usado,aluguel,1,0
+0,0,0,nivel medio,baixa,2,0,2,sem conta,3,16950,Sim,6,24,muito pobre,Nao,empresa,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,16986,Sim,2,30,muito pobre,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel alto,sem conta,1,0,1,sem conta,4,17154,Sim,0,12,boa,Nao,carro novo,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,2,media,4,17232,Sim,10,24,muito pobre,imovel,eletronico,proprio,3,0
+0,0,0,nivel alto,negativa,1,0,1,baixa,1,17460,Sim,7,24,boa,Nao,carro_usado,gratis,2,0
+0,0,0,nivel alto,alta,1,2,1,media,1,17538,Sim,3,21,boa,carro ou outro,carro novo,proprio,1,0
+0,1,0,nivel medio,negativa,1,2,2,baixa,4,17544,Sim,2,24,boa,Nao,carro_usado,proprio,3,0
+0,0,0,nivel medio,negativa,2,0,1,baixa,4,17742,Sim,10,24,muito pobre,seguro de vida,carro_usado,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,alta,2,17868,Sim,3,6,boa,carro ou outro,mobiliario,proprio,1,0
+0,0,0,nivel medio,sem conta,2,0,2,sem conta,4,17868,Sim,4,24,pobre,imovel,empresa,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,alta,3,18372,Sim,11,24,boa,Nao,mobiliario,aluguel,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,4,18462,Sim,4,12,boa,carro ou outro,eletronico,proprio,2,0
+0,0,0,nivel medio,sem conta,2,0,2,sem conta,2,18462,Sim,14,30,muito pobre,carro ou outro,eletronico,proprio,3,0
+0,0,0,nivel medio,baixa,1,0,1,media,2,18552,Sim,1,24,boa,carro ou outro,eletronico,aluguel,3,1
+0,0,0,nivel medio,negativa,1,1,1,baixa,1,18624,Sim,7,18,boa,seguro de vida,empresa,proprio,3,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,3,18960,Sim,10,21,boa,seguro de vida,eletronico,proprio,4,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,2,18966,Sim,3,24,boa,seguro de vida,empresa,aluguel,4,1
+0,0,0,nivel medio,sem conta,1,0,1,baixa,4,19086,Sim,1,24,boa,seguro de vida,eletronico,proprio,4,0
+0,0,0,nivel alto,sem conta,1,0,1,sem conta,4,19374,Sim,0,18,muito pobre,Nao,carro_usado,proprio,2,0
+0,0,0,operario,negativa,1,0,1,baixa,4,19404,Sim,1,24,boa,imovel,mobiliario,aluguel,4,1
+0,0,0,nivel medio,baixa,2,1,1,baixa,4,19464,Sim,2,18,boa,carro ou outro,mobiliario,proprio,1,0
+0,0,0,nivel alto,negativa,1,2,2,baixa,4,19494,Sim,6,36,boa,Nao,carro novo,gratis,2,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,2,20052,Sim,11,36,muito pobre,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,20058,Sim,3,15,muito pobre,Nao,mobiliario,gratis,4,0
+0,0,0,nivel alto,negativa,1,0,1,baixa,2,20070,Sim,11,24,boa,seguro de vida,mobiliario,aluguel,4,1
+0,0,0,nivel medio,negativa,1,0,2,alta,4,20094,Sim,1,24,boa,Nao,mobiliario,gratis,4,1
+0,0,0,nivel alto,sem conta,1,0,1,baixa,2,20094,Sim,4,36,boa,carro ou outro,mobiliario,proprio,4,1
+0,0,0,nivel medio,sem conta,2,0,1,muito_alta,4,20208,Sim,15,15,muito pobre,Nao,carro_usado,aluguel,3,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,1,20268,Sim,3,18,boa,seguro de vida,carro_usado,proprio,2,0
+0,0,0,nivel alto,negativa,1,0,1,baixa,4,20304,Sim,2,6,muito pobre,imovel,mobiliario,aluguel,1,1
+0,0,0,nivel medio,sem conta,3,1,2,baixa,4,20532,Sim,10,18,boa,seguro de vida,mobiliario,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,2,alta,2,20580,Sim,16,24,boa,carro ou outro,eletronico,proprio,3,0
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,4,20910,Sim,1,20,muito pobre,imovel,carro novo,proprio,2,0
+0,0,0,nivel medio,baixa,2,2,1,media,3,21072,Sim,6,24,boa,carro ou outro,carro novo,proprio,2,0
+0,0,0,nivel alto,sem conta,1,0,2,sem conta,3,21162,Sim,1,12,boa,seguro de vida,carro novo,proprio,2,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,4,21210,Sim,5,36,muito pobre,carro ou outro,carro novo,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,1,21468,Sim,9,48,muito pobre,imovel,eletronico,proprio,4,0
+0,0,0,desempregado,baixa,3,0,2,baixa,3,21540,Sim,0,18,muito pobre,carro ou outro,empresa,proprio,3,0
+1,0,0,nivel medio,sem conta,1,0,1,baixa,4,22542,Sim,9,24,boa,Nao,carro novo,gratis,4,0
+0,0,0,nivel medio,sem conta,1,0,1,muito_alta,4,22662,Sim,2,24,muito pobre,imovel,mobiliario,proprio,4,0
+0,0,0,nivel alto,sem conta,2,0,1,baixa,2,22680,Sim,1,18,muito pobre,carro ou outro,mobiliario,proprio,3,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,1,22824,Sim,4,36,boa,carro ou outro,eletronico,proprio,4,1
+0,0,0,nivel alto,negativa,1,0,1,baixa,4,23142,Sim,3,30,boa,seguro de vida,carro_usado,proprio,4,0
+0,0,0,nivel alto,sem conta,2,0,1,baixa,2,23208,Sim,12,24,muito pobre,carro ou outro,carro_usado,aluguel,4,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,4,23232,Sim,0,18,boa,carro ou outro,reformas,proprio,2,0
+0,0,0,nivel medio,alta,1,0,1,baixa,2,23478,Sim,4,36,boa,imovel,eletronico,proprio,2,0
+0,0,0,nivel medio,baixa,1,0,2,baixa,2,23490,Sim,2,27,boa,carro ou outro,empresa,proprio,4,1
+0,0,0,nivel alto,negativa,1,0,1,baixa,3,23754,Sim,0,36,boa,seguro de vida,mobiliario,proprio,4,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,2,23754,Sim,2,15,boa,seguro de vida,carro novo,proprio,3,1
+0,0,0,nivel medio,negativa,3,2,1,baixa,4,23796,Sim,16,18,muito pobre,imovel,carro novo,aluguel,1,1
+0,0,0,nivel medio,baixa,1,0,1,sem conta,3,23856,Sim,6,21,boa,carro ou outro,mobiliario,proprio,2,0
+0,0,0,nivel medio,baixa,2,0,2,sem conta,1,23874,Sim,6,48,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,4,24252,Sim,6,24,muito pobre,seguro de vida,carro_usado,proprio,3,0
+0,0,0,nivel medio,sem conta,2,0,1,alta,4,24252,Sim,4,42,muito pobre,imovel,mobiliario,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,3,24342,Sim,5,24,boa,carro ou outro,mobiliario,proprio,3,1
+0,0,0,operario,sem conta,2,0,1,media,3,24834,Sim,2,24,muito pobre,seguro de vida,empresa,proprio,3,0
+0,0,0,operario,baixa,3,0,1,baixa,4,25446,Sim,3,24,boa,imovel,empresa,proprio,1,1
+0,0,0,nivel alto,baixa,1,0,1,baixa,3,25782,Sim,14,18,pobre,Nao,mobiliario,proprio,4,1
+0,0,0,nivel medio,negativa,2,2,2,baixa,2,26220,Sim,5,42,pobre,seguro de vida,eletronico,proprio,3,1
+0,0,0,operario,negativa,1,0,2,media,4,26280,Sim,2,18,boa,carro ou outro,carro novo,proprio,3,0
+1,0,0,nivel alto,baixa,1,2,1,baixa,1,26634,Sim,13,18,boa,imovel,empresa,proprio,1,0
+0,0,1,nivel alto,baixa,2,0,1,baixa,2,26730,Sim,4,36,pobre,imovel,empresa,proprio,2,1
+0,0,0,nivel alto,sem conta,2,0,1,baixa,2,26778,Sim,3,36,pobre,carro ou outro,eletronico,proprio,4,1
+0,0,0,nivel alto,sem conta,1,0,1,baixa,2,27156,Sim,3,24,muito pobre,imovel,empresa,proprio,3,0
+0,0,1,operario,sem conta,2,0,2,muito_alta,2,27156,Sim,1,27,muito pobre,imovel,mobiliario,proprio,4,0
+0,0,0,nivel alto,sem conta,1,0,1,baixa,4,27180,Sim,6,30,muito pobre,carro ou outro,eletronico,aluguel,4,0
+0,0,0,nivel alto,sem conta,3,0,1,muito_alta,3,27546,Sim,2,24,boa,seguro de vida,empresa,proprio,2,1
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,27564,Sim,1,18,boa,carro ou outro,eletronico,proprio,3,0
+0,0,0,nivel alto,sem conta,1,0,1,media,2,27738,Sim,2,15,boa,seguro de vida,educacao,proprio,3,1
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,27942,Sim,3,15,boa,carro ou outro,carro_usado,proprio,3,0
+0,0,0,operario,sem conta,2,0,1,baixa,3,28074,Sim,7,24,pobre,carro ou outro,carro_usado,proprio,3,0
+0,0,0,nivel alto,baixa,2,2,1,sem conta,2,28272,Sim,2,24,pobre,seguro de vida,empresa,proprio,4,0
+0,0,0,nivel alto,baixa,1,0,1,baixa,1,28770,Sim,1,36,boa,Nao,eletronico,proprio,4,0
+1,0,0,nivel medio,negativa,1,0,1,baixa,3,28902,Sim,5,24,boa,seguro de vida,carro novo,proprio,2,1
+0,0,0,nivel alto,sem conta,1,1,1,baixa,2,29064,Sim,0,48,boa,carro ou outro,empresa,aluguel,3,1
+0,0,0,nivel medio,sem conta,2,1,1,sem conta,4,30018,Sim,4,21,boa,seguro de vida,carro novo,proprio,1,1
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,4,30270,Sim,16,15,muito pobre,carro ou outro,carro novo,proprio,1,0
+0,0,0,nivel alto,baixa,1,0,1,baixa,3,30576,Sim,2,48,muito pobre,carro ou outro,mobiliario,proprio,2,1
+0,0,0,nivel medio,sem conta,3,0,1,baixa,3,30618,Sim,1,24,muito pobre,Nao,eletronico,gratis,3,0
+0,0,0,nivel alto,baixa,1,2,2,baixa,4,30774,Sim,14,9,boa,Nao,carro_usado,gratis,2,1
+0,0,0,nivel medio,sem conta,1,0,1,baixa,4,30900,Sim,12,24,muito pobre,carro ou outro,mobiliario,proprio,4,0
+0,0,2,nivel medio,negativa,2,0,1,baixa,4,31758,Sim,0,27,boa,seguro de vida,empresa,proprio,2,1
+0,0,0,nivel alto,negativa,3,0,1,baixa,4,31812,Sim,15,18,muito pobre,Nao,carro novo,gratis,2,0
+0,0,0,nivel alto,sem conta,1,0,1,sem conta,4,32598,Sim,0,24,boa,seguro de vida,carro_usado,aluguel,2,0
+0,0,0,nivel alto,sem conta,2,0,1,muito_alta,2,34266,Sim,11,36,muito pobre,carro ou outro,carro_usado,proprio,4,0
+0,0,0,nivel medio,baixa,2,0,1,baixa,4,34458,Sim,1,24,muito pobre,Nao,educacao,gratis,2,0
+0,0,0,nivel medio,baixa,2,0,1,baixa,4,34800,Sim,4,36,muito pobre,carro ou outro,carro_usado,proprio,3,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,4,34806,Sim,11,12,muito pobre,seguro de vida,mobiliario,aluguel,2,0
+0,0,0,nivel medio,sem conta,2,0,2,baixa,2,35052,Sim,9,36,muito pobre,seguro de vida,carro_usado,proprio,2,0
+0,0,0,nivel medio,baixa,2,0,1,media,2,35196,Sim,4,18,boa,carro ou outro,carro novo,proprio,2,0
+0,0,0,nivel alto,baixa,2,0,1,baixa,2,35790,Sim,14,27,pobre,carro ou outro,carro_usado,proprio,1,0
+0,0,0,nivel medio,negativa,1,2,1,baixa,3,35988,Sim,3,40,muito pobre,Nao,educacao,proprio,4,1
+0,0,0,nivel medio,sem conta,2,0,1,baixa,4,36420,Sim,10,18,muito pobre,carro ou outro,eletronico,proprio,3,0
+0,0,0,nivel medio,sem conta,1,2,1,baixa,3,36660,Sim,3,48,muito pobre,Nao,educacao,gratis,1,0
+0,0,0,nivel medio,negativa,2,0,1,baixa,2,37194,Sim,2,12,boa,seguro de vida,eletronico,aluguel,4,1
+1,0,0,operario,negativa,2,0,1,baixa,4,37374,Sim,1,36,muito pobre,Nao,mobiliario,aluguel,4,1
+0,0,0,nivel alto,sem conta,1,0,2,sem conta,4,37878,Sim,16,24,boa,carro ou outro,carro_usado,proprio,3,0
+1,0,0,nivel alto,sem conta,2,2,1,baixa,2,37884,Sim,0,24,muito pobre,Nao,outro,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,1,38166,Sim,16,18,muito pobre,Nao,mobiliario,proprio,2,0
+0,0,0,nivel alto,negativa,2,0,2,baixa,4,38514,Sim,9,24,muito pobre,Nao,carro_usado,gratis,2,0
+0,0,0,nivel alto,baixa,1,0,1,sem conta,4,38808,Sim,0,20,boa,imovel,carro_usado,proprio,1,0
+0,0,0,nivel alto,baixa,1,0,1,sem conta,1,38808,Sim,0,12,boa,Nao,eletronico,proprio,2,1
+0,0,0,nivel medio,sem conta,1,0,2,sem conta,4,39162,Sim,2,60,boa,Nao,carro novo,gratis,4,0
+0,0,0,nivel alto,negativa,1,0,1,baixa,2,39474,Sim,0,24,boa,Nao,carro_usado,gratis,4,0
+0,0,0,nivel alto,sem conta,2,0,1,baixa,4,39684,Sim,14,36,muito pobre,carro ou outro,carro novo,proprio,4,0
+0,0,0,nivel alto,negativa,2,0,1,baixa,4,39690,Sim,0,24,muito pobre,Nao,carro_usado,gratis,2,0
+0,0,0,nivel medio,baixa,1,0,2,sem conta,4,40086,Sim,2,48,pobre,Nao,empresa,gratis,4,0
+0,0,0,nivel alto,sem conta,2,0,2,baixa,3,40566,Sim,7,6,muito pobre,Nao,carro novo,proprio,1,0
+0,0,0,nivel medio,negativa,2,0,1,baixa,4,41016,Sim,8,60,pobre,Nao,empresa,proprio,3,1
+0,0,0,nivel alto,sem conta,2,0,2,sem conta,4,41052,Sim,4,24,muito pobre,seguro de vida,carro_usado,proprio,2,0
+0,0,0,nivel medio,negativa,1,1,1,baixa,1,41232,Sim,1,24,boa,seguro de vida,mobiliario,proprio,2,1
+0,0,1,nivel medio,negativa,1,0,1,baixa,3,41322,Sim,4,36,pobre,seguro de vida,educacao,proprio,4,1
+0,0,0,nivel alto,baixa,1,0,1,baixa,2,41688,Sim,2,36,boa,carro ou outro,carro_usado,aluguel,2,0
+0,0,0,nivel alto,baixa,1,0,1,media,4,41802,Sim,7,24,pobre,carro ou outro,empresa,aluguel,4,0
+0,1,0,nivel medio,negativa,2,0,1,baixa,1,41994,Sim,7,48,boa,imovel,eletronico,proprio,1,1
+0,0,0,nivel alto,baixa,2,2,2,sem conta,4,42342,Sim,6,20,pobre,seguro de vida,carro_usado,aluguel,3,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,4,42762,Sim,1,36,muito pobre,seguro de vida,mobiliario,aluguel,2,1
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,4,42996,Sim,7,42,boa,seguro de vida,eletronico,aluguel,2,0
+0,0,0,nivel alto,negativa,1,0,1,sem conta,3,43044,Sim,5,42,boa,carro ou outro,eletronico,proprio,4,1
+0,0,0,nivel alto,sem conta,2,0,1,baixa,2,43518,Sim,7,33,muito pobre,carro ou outro,carro_usado,proprio,3,0
+0,0,1,nivel alto,baixa,2,0,1,baixa,4,44244,Sim,0,18,muito pobre,seguro de vida,mobiliario,proprio,4,0
+0,0,0,nivel alto,sem conta,1,2,1,sem conta,1,44910,Sim,0,30,boa,imovel,carro_usado,proprio,4,1
+0,0,0,nivel medio,negativa,1,0,2,sem conta,4,45066,Sim,11,18,boa,seguro de vida,carro_usado,gratis,1,1
+0,0,0,nivel alto,baixa,1,0,1,media,4,45492,Sim,0,48,pobre,Nao,outro,gratis,2,0
+0,0,0,nivel medio,sem conta,2,0,1,alta,4,46068,Sim,6,36,pobre,carro ou outro,mobiliario,proprio,2,0
+0,0,0,nivel medio,negativa,1,0,1,sem conta,2,46326,Sim,1,24,boa,seguro de vida,mobiliario,proprio,1,0
+0,0,0,nivel alto,sem conta,1,0,1,baixa,3,46884,Sim,7,24,boa,carro ou outro,carro_usado,proprio,3,0
+0,1,0,nivel medio,sem conta,2,2,2,sem conta,4,46944,Sim,1,28,boa,imovel,carro_usado,aluguel,3,0
+0,0,2,nivel medio,sem conta,2,0,1,baixa,2,47130,Sim,4,36,muito pobre,imovel,carro novo,proprio,4,1
+0,0,0,nivel alto,negativa,1,0,1,baixa,4,47190,Sim,10,12,boa,Nao,mobiliario,gratis,4,1
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,4,47880,Sim,1,36,pobre,carro ou outro,empresa,aluguel,4,1
+0,0,0,nivel alto,negativa,2,0,1,baixa,2,48390,Sim,2,36,muito pobre,Nao,educacao,proprio,3,1
+0,0,0,nivel medio,negativa,2,0,1,sem conta,2,50826,Sim,4,18,pobre,carro ou outro,educacao,aluguel,1,0
+0,0,0,nivel alto,sem conta,1,0,1,media,2,51528,Sim,8,39,boa,carro ou outro,carro_usado,proprio,4,0
+0,0,0,nivel medio,sem conta,2,2,1,baixa,2,51888,Sim,1,24,pobre,carro ou outro,empresa,proprio,2,1
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,1,53148,Sim,6,48,muito pobre,Nao,carro_usado,gratis,2,0
+0,0,2,nivel alto,sem conta,1,0,2,sem conta,2,53682,Sim,6,36,pobre,carro ou outro,carro_usado,proprio,3,0
+0,0,0,nivel alto,negativa,1,0,1,baixa,4,53868,Sim,9,14,boa,seguro de vida,carro novo,proprio,1,1
+1,0,0,nivel alto,baixa,1,0,1,media,1,54204,Sim,1,36,boa,Nao,mobiliario,aluguel,4,1
+0,0,0,operario,sem conta,1,0,2,sem conta,4,54330,Sim,3,36,boa,Nao,educacao,gratis,2,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,1,55626,Sim,6,36,boa,carro ou outro,carro novo,proprio,2,1
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,4,55662,Sim,2,24,boa,Nao,carro_usado,gratis,2,0
+0,0,0,nivel alto,baixa,1,1,1,baixa,2,55698,Sim,0,42,boa,Nao,carro_usado,gratis,1,0
+0,0,0,nivel alto,baixa,1,0,1,baixa,4,56388,Sim,1,36,boa,carro ou outro,carro_usado,aluguel,1,1
+0,0,0,nivel medio,negativa,2,0,1,baixa,4,57774,Sim,6,36,muito pobre,carro ou outro,carro_usado,proprio,4,1
+0,0,0,operario,baixa,2,0,2,media,3,59142,Sim,6,36,pobre,seguro de vida,empresa,proprio,1,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,2,59760,Sim,1,48,boa,carro ou outro,mobiliario,proprio,1,1
+0,0,0,nivel medio,sem conta,1,0,1,media,4,60864,Sim,6,60,boa,imovel,eletronico,proprio,2,0
+0,0,1,nivel medio,negativa,3,0,2,baixa,4,61782,Sim,6,48,boa,Nao,carro_usado,gratis,4,1
+0,0,0,nivel alto,sem conta,1,0,1,baixa,4,62196,Sim,13,60,boa,seguro de vida,carro novo,proprio,2,0
+0,0,0,nivel alto,negativa,3,0,2,baixa,4,63738,Sim,11,30,muito pobre,Nao,carro_usado,gratis,3,0
+0,0,0,operario,negativa,1,0,1,baixa,1,64332,Sim,1,47,boa,imovel,carro novo,proprio,1,0
+0,0,0,nivel medio,sem conta,2,0,2,baixa,2,65250,Sim,8,36,pobre,carro ou outro,carro novo,proprio,2,0
+1,0,0,nivel medio,baixa,2,1,1,muito_alta,2,65766,Sim,6,48,boa,Nao,eletronico,proprio,1,1
+0,0,0,nivel alto,sem conta,2,0,1,baixa,2,65844,Sim,0,36,boa,carro ou outro,mobiliario,proprio,4,1
+0,0,0,nivel alto,sem conta,1,0,1,sem conta,2,66324,Sim,4,36,muito pobre,carro ou outro,carro_usado,proprio,4,0
+1,0,0,nivel alto,baixa,2,1,1,baixa,3,67968,Sim,2,24,boa,carro ou outro,outro,proprio,2,1
+0,0,0,nivel medio,baixa,1,0,1,media,3,70560,Sim,6,39,pobre,Nao,educacao,aluguel,2,0
+1,0,0,nivel alto,baixa,2,0,2,baixa,3,71628,Sim,2,24,muito pobre,carro ou outro,outro,proprio,2,1
+0,0,0,operario,negativa,1,0,1,baixa,1,71988,Sim,1,30,boa,Nao,reformas,proprio,1,1
+1,0,0,nivel alto,baixa,1,0,1,sem conta,4,73014,Sim,0,48,boa,Nao,carro novo,gratis,4,0
+0,0,0,nivel alto,baixa,1,1,1,sem conta,2,73224,Sim,2,48,boa,carro ou outro,empresa,proprio,2,0
+0,0,0,nivel medio,baixa,1,0,1,sem conta,4,74334,Sim,2,36,boa,Nao,carro novo,gratis,1,1
+0,0,0,nivel alto,baixa,1,0,1,baixa,2,75474,Sim,16,24,boa,Nao,carro_usado,gratis,4,1
+0,0,0,nivel medio,baixa,1,0,2,media,4,75672,Sim,4,36,boa,Nao,educacao,gratis,1,1
+0,0,0,nivel alto,sem conta,1,0,1,sem conta,4,76080,Sim,8,21,muito pobre,Nao,carro novo,gratis,4,1
+0,0,0,nivel alto,sem conta,1,0,1,alta,1,76494,Sim,7,48,pobre,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel alto,baixa,1,0,1,baixa,4,77856,Sim,0,18,boa,Nao,carro_usado,gratis,3,1
+0,0,0,nivel alto,negativa,2,0,1,sem conta,4,85074,Sim,7,39,muito pobre,seguro de vida,mobiliario,proprio,4,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,2,86526,Sim,3,48,boa,carro ou outro,empresa,proprio,2,1
+0,0,0,desempregado,baixa,1,0,1,sem conta,2,87330,Sim,0,6,boa,seguro de vida,carro novo,proprio,1,1
+0,0,0,nivel alto,negativa,1,1,1,baixa,4,89376,Sim,13,6,boa,Nao,carro novo,proprio,1,1
+0,0,0,nivel medio,baixa,1,0,1,baixa,4,95670,Sim,1,54,boa,Nao,empresa,aluguel,3,1
+0,0,0,nivel alto,baixa,1,1,1,baixa,2,110544,Sim,3,48,boa,seguro de vida,outro,proprio,1,1
+0,0,0,nivel medio,baixa,1,0,1,sem conta,4,2208,Nao,11,6,boa,seguro de vida,eletronico,proprio,4,0
+0,0,0,operario,baixa,1,0,1,baixa,1,2724,Nao,1,6,boa,seguro de vida,reformas,proprio,3,0
+0,0,0,operario,baixa,1,0,1,baixa,3,3540,Nao,1,6,boa,imovel,eletronico,proprio,3,0
+0,0,0,operario,sem conta,1,0,2,baixa,3,3606,Nao,1,4,boa,imovel,mobiliario,aluguel,1,0
+0,0,0,nivel medio,negativa,1,0,1,media,1,4044,Nao,5,12,boa,seguro de vida,eletronico,proprio,4,1
+0,0,0,nivel medio,alta,1,2,1,baixa,1,4098,Nao,1,6,pobre,seguro de vida,eletronico,proprio,2,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,2,4206,Nao,4,12,muito pobre,carro ou outro,educacao,proprio,4,0
+0,0,0,operario,negativa,1,0,1,baixa,2,4206,Nao,3,12,boa,imovel,eletronico,proprio,4,0
+0,1,0,operario,negativa,1,0,2,baixa,3,4248,Nao,2,12,boa,seguro de vida,mobiliario,proprio,2,0
+0,0,0,operario,alta,1,0,1,baixa,2,4470,Nao,2,9,boa,imovel,eletronico,proprio,3,1
+0,1,0,nivel medio,baixa,1,0,1,baixa,3,4518,Nao,3,6,boa,imovel,eletronico,proprio,2,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,4656,Nao,2,12,boa,imovel,eletronico,proprio,4,0
+0,0,0,operario,sem conta,1,2,2,sem conta,3,4782,Nao,16,12,muito pobre,seguro de vida,eletronico,proprio,4,1
+0,0,0,operario,baixa,1,0,1,media,4,5046,Nao,5,12,boa,imovel,empresa,aluguel,2,0
+0,1,0,nivel medio,baixa,2,0,1,baixa,4,5292,Nao,1,13,muito pobre,imovel,eletronico,proprio,4,0
+0,0,0,operario,baixa,1,2,2,baixa,4,5328,Nao,14,12,boa,carro ou outro,carro novo,proprio,4,1
+0,0,0,nivel medio,negativa,1,2,1,sem conta,2,5490,Nao,11,24,boa,carro ou outro,carro novo,proprio,4,1
+0,0,2,operario,baixa,1,0,1,media,1,5586,Nao,1,6,boa,seguro de vida,carro novo,proprio,1,1
+0,0,0,operario,baixa,2,0,1,sem conta,3,5592,Nao,5,6,muito pobre,seguro de vida,requalificacao,proprio,1,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,2,5754,Nao,4,9,boa,carro ou outro,mobiliario,proprio,1,1
+0,0,1,nivel medio,negativa,1,0,1,baixa,4,6144,Nao,1,24,pobre,imovel,eletronico,proprio,4,1
+0,0,0,nivel medio,baixa,1,0,2,baixa,4,6408,Nao,11,6,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,operario,baixa,2,0,1,baixa,4,6492,Nao,8,9,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,alta,1,0,1,media,4,6756,Nao,11,9,boa,imovel,eletronico,proprio,2,0
+1,0,0,desempregado,negativa,2,0,1,baixa,4,7158,Nao,0,24,boa,Nao,carro novo,aluguel,1,1
+0,0,0,operario,negativa,2,0,1,baixa,4,7194,Nao,10,24,muito pobre,carro ou outro,carro novo,proprio,4,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,7242,Nao,1,24,boa,seguro de vida,carro novo,aluguel,4,1
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,2,7326,Nao,3,6,muito pobre,seguro de vida,mobiliario,proprio,1,0
+0,0,0,nivel medio,sem conta,1,0,1,alta,4,7416,Nao,2,6,boa,seguro de vida,carro_usado,aluguel,2,0
+0,0,0,operario,sem conta,2,0,1,baixa,4,7530,Nao,16,12,muito pobre,imovel,carro novo,proprio,4,0
+0,0,0,operario,alta,1,0,1,alta,3,7548,Nao,3,24,boa,carro ou outro,eletronico,proprio,3,0
+0,0,0,nivel medio,alta,1,0,1,baixa,1,7980,Nao,1,12,boa,imovel,carro novo,proprio,4,0
+0,0,2,nivel medio,baixa,1,0,1,baixa,1,7986,Nao,1,12,boa,carro ou outro,eletronico,proprio,2,1
+0,0,0,operario,alta,2,1,2,sem conta,2,8064,Nao,5,24,muito pobre,imovel,carro novo,proprio,4,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,8418,Nao,4,15,boa,carro ou outro,carro novo,aluguel,2,0
+0,1,0,nivel medio,baixa,1,0,1,baixa,2,8484,Nao,2,8,boa,imovel,eletronico,proprio,4,0
+0,0,0,operario,alta,1,2,1,sem conta,4,8670,Nao,7,18,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,1,8718,Nao,1,18,boa,imovel,eletronico,proprio,3,0
+0,0,0,nivel medio,sem conta,1,0,2,baixa,3,8958,Nao,1,12,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,operario,sem conta,2,0,2,baixa,1,9018,Nao,6,4,muito pobre,imovel,eletronico,proprio,2,0
+0,0,0,nivel alto,negativa,2,0,1,baixa,4,9156,Nao,12,12,muito pobre,Nao,carro_usado,gratis,4,0
+1,0,0,operario,sem conta,1,0,2,baixa,1,9198,Nao,1,18,boa,seguro de vida,mobiliario,proprio,4,1
+0,0,0,nivel medio,sem conta,1,0,1,baixa,1,10848,Nao,5,18,pobre,imovel,mobiliario,proprio,4,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,1,11148,Nao,1,12,boa,carro ou outro,mobiliario,aluguel,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,4,11658,Nao,1,18,boa,imovel,reformas,proprio,4,1
+0,0,0,nivel medio,baixa,1,0,1,sem conta,2,12168,Nao,2,12,boa,carro ou outro,carro_usado,proprio,4,0
+0,0,0,nivel medio,negativa,1,2,1,baixa,4,12234,Nao,4,18,boa,imovel,mobiliario,aluguel,1,1
+1,0,0,nivel medio,sem conta,1,0,1,media,2,12438,Nao,2,12,boa,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,alta,2,12480,Nao,2,6,muito pobre,carro ou outro,carro novo,proprio,1,0
+1,0,2,nivel medio,alta,1,0,1,baixa,2,12600,Nao,3,18,boa,imovel,eletronico,proprio,4,1
+0,0,0,operario,negativa,2,0,2,baixa,2,12732,Nao,2,12,muito pobre,imovel,carro novo,aluguel,3,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,1,12894,Nao,4,12,boa,Nao,eletronico,gratis,4,1
+0,1,0,nivel medio,baixa,1,1,1,baixa,2,12900,Nao,3,30,boa,Nao,carro novo,proprio,4,1
+0,0,0,nivel medio,negativa,2,0,1,baixa,3,13476,Nao,12,12,muito pobre,seguro de vida,mobiliario,proprio,3,1
+0,0,0,nivel medio,baixa,2,0,1,media,3,13668,Nao,1,18,boa,carro ou outro,carro novo,proprio,3,1
+0,0,0,nivel medio,sem conta,1,0,1,media,4,13806,Nao,1,9,boa,seguro de vida,mobiliario,aluguel,2,0
+0,0,0,nivel medio,baixa,2,0,1,sem conta,2,14562,Nao,12,18,pobre,seguro de vida,empresa,proprio,4,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,2,14772,Nao,2,18,boa,carro ou outro,mobiliario,proprio,2,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,15066,Nao,0,15,boa,carro ou outro,carro novo,aluguel,1,0
+0,1,0,nivel medio,baixa,1,0,1,baixa,2,15456,Nao,3,7,boa,imovel,eletronico,proprio,2,0
+0,0,0,nivel alto,negativa,1,0,1,baixa,4,15468,Nao,0,12,boa,Nao,mobiliario,gratis,3,0
+0,0,0,nivel medio,sem conta,1,0,1,muito_alta,2,15468,Nao,10,24,muito pobre,carro ou outro,eletronico,proprio,2,0
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,3,15972,Nao,6,18,boa,seguro de vida,carro novo,proprio,4,0
+1,0,0,nivel medio,baixa,1,0,1,media,4,16026,Nao,3,36,boa,Nao,eletronico,gratis,4,1
+0,0,0,operario,sem conta,3,2,1,baixa,4,16488,Nao,11,12,muito pobre,Nao,educacao,gratis,2,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,4,16554,Nao,15,12,boa,seguro de vida,mobiliario,proprio,2,0
+0,0,0,nivel medio,negativa,1,0,1,sem conta,4,16872,Nao,16,24,boa,imovel,carro_usado,aluguel,2,0
+0,0,0,nivel medio,baixa,1,0,1,media,1,17376,Nao,1,24,boa,carro ou outro,eletronico,proprio,2,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,18174,Nao,7,15,boa,carro ou outro,carro_usado,proprio,2,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,1,18738,Nao,1,24,boa,seguro de vida,carro novo,proprio,4,1
+0,0,0,operario,baixa,2,2,2,baixa,3,18744,Nao,1,12,muito pobre,imovel,carro novo,proprio,1,0
+0,0,0,nivel medio,negativa,1,1,1,baixa,1,18894,Nao,1,24,boa,Nao,mobiliario,gratis,4,0
+0,0,0,nivel medio,sem conta,1,0,1,muito_alta,3,19116,Nao,7,15,boa,carro ou outro,carro novo,aluguel,2,0
+1,0,0,nivel medio,baixa,1,0,1,media,4,20646,Nao,4,30,boa,carro ou outro,mobiliario,aluguel,2,1
+0,0,0,operario,sem conta,1,0,2,alta,3,20682,Nao,4,12,boa,imovel,requalificacao,proprio,4,0
+0,0,0,operario,sem conta,1,0,1,baixa,4,20688,Nao,5,5,boa,imovel,empresa,proprio,1,0
+1,0,0,nivel medio,negativa,2,0,1,baixa,2,20994,Nao,4,12,muito pobre,imovel,carro novo,proprio,3,1
+0,0,0,operario,baixa,1,0,1,baixa,1,21438,Nao,3,12,muito pobre,imovel,eletronico,proprio,1,0
+0,0,0,operario,sem conta,2,0,1,baixa,2,21564,Nao,1,15,pobre,seguro de vida,carro_usado,proprio,1,0
+0,0,2,nivel medio,sem conta,1,0,1,baixa,1,21654,Nao,4,48,boa,imovel,empresa,proprio,1,0
+0,1,0,nivel medio,negativa,1,2,1,baixa,4,21792,Nao,3,24,boa,carro ou outro,carro_usado,aluguel,1,0
+0,0,0,desempregado,baixa,1,0,1,alta,4,22548,Nao,0,24,boa,Nao,eletronico,aluguel,1,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,23178,Nao,2,24,pobre,Nao,empresa,gratis,1,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,25014,Nao,3,24,boa,seguro de vida,mobiliario,proprio,4,0
+0,0,0,operario,sem conta,2,0,1,media,2,25632,Nao,2,30,pobre,seguro de vida,empresa,proprio,2,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,25848,Nao,1,48,boa,seguro de vida,empresa,aluguel,3,1
+0,0,0,nivel medio,sem conta,1,0,1,baixa,4,27666,Nao,1,6,boa,seguro de vida,mobiliario,proprio,1,1
+0,0,0,nivel medio,sem conta,1,0,1,sem conta,4,28050,Nao,1,12,boa,carro ou outro,carro_usado,aluguel,1,0
+0,1,0,nivel medio,baixa,2,0,1,baixa,2,29598,Nao,6,39,muito pobre,imovel,eletronico,proprio,2,1
+0,0,0,nivel medio,negativa,1,0,2,baixa,4,32958,Nao,13,36,boa,Nao,carro_usado,gratis,2,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,2,35706,Nao,2,48,boa,imovel,eletronico,proprio,2,1
+0,0,0,nivel medio,baixa,1,0,1,baixa,3,38496,Nao,15,48,boa,Nao,empresa,aluguel,4,1
+0,0,0,nivel medio,baixa,1,0,1,media,2,39360,Nao,5,48,boa,seguro de vida,carro novo,proprio,3,1
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,4,40566,Nao,4,18,boa,carro ou outro,carro novo,aluguel,2,1
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,2,44454,Nao,8,36,boa,seguro de vida,empresa,proprio,3,0
+0,0,0,desempregado,baixa,1,0,1,sem conta,2,44832,Nao,0,12,boa,imovel,carro novo,aluguel,1,0
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,4,45576,Nao,11,30,muito pobre,carro ou outro,carro_usado,proprio,1,0
+0,1,0,nivel medio,negativa,1,0,1,baixa,4,46110,Nao,6,48,boa,carro ou outro,empresa,aluguel,2,1
+0,0,0,nivel medio,sem conta,1,1,1,baixa,2,48798,Nao,4,36,boa,seguro de vida,carro_usado,proprio,1,0
+0,0,0,nivel medio,negativa,1,0,2,baixa,2,49374,Nao,4,36,boa,seguro de vida,carro_usado,proprio,2,1
+0,0,0,nivel medio,baixa,1,0,1,sem conta,2,50922,Nao,6,48,boa,carro ou outro,carro novo,proprio,1,0
+0,0,0,nivel medio,sem conta,2,0,1,muito_alta,2,51678,Nao,2,27,pobre,carro ou outro,carro_usado,proprio,2,0
+0,0,0,nivel alto,baixa,1,0,1,sem conta,2,54942,Nao,3,60,pobre,Nao,eletronico,gratis,2,0
+0,0,0,nivel alto,baixa,2,0,1,baixa,4,69360,Nao,3,24,boa,carro ou outro,carro_usado,aluguel,1,1
+0,0,0,desempregado,sem conta,1,0,1,baixa,4,4032,Sim,0,6,boa,imovel,carro novo,proprio,1,0
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,4,4302,Sim,16,24,pobre,carro ou outro,carro novo,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,alta,4,4362,Sim,14,10,boa,Nao,educacao,gratis,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,1,4578,Sim,2,12,boa,imovel,mobiliario,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,alta,2,5616,Sim,11,9,muito pobre,carro ou outro,educacao,proprio,4,0
+1,0,0,nivel medio,negativa,2,0,1,baixa,3,6228,Sim,6,10,muito pobre,seguro de vida,carro novo,proprio,4,0
+0,1,0,nivel medio,baixa,2,0,1,baixa,4,6552,Sim,4,12,boa,imovel,eletronico,proprio,4,0
+0,0,0,nivel alto,negativa,1,0,2,baixa,2,6642,Sim,3,12,boa,imovel,eletronico,aluguel,2,0
+0,0,0,desempregado,baixa,3,0,1,baixa,3,7050,Sim,0,16,muito pobre,carro ou outro,carro novo,gratis,2,0
+0,0,0,nivel medio,negativa,1,2,1,sem conta,4,7200,Sim,4,12,boa,seguro de vida,educacao,aluguel,4,0
+0,0,0,nivel medio,negativa,1,0,1,media,2,7218,Sim,13,6,boa,seguro de vida,carro novo,proprio,3,0
+0,0,2,nivel medio,sem conta,1,0,1,alta,3,7278,Sim,11,15,boa,seguro de vida,eletronico,proprio,4,0
+0,0,0,operario,negativa,1,0,1,sem conta,4,7572,Sim,15,12,boa,seguro de vida,mobiliario,proprio,2,0
+0,0,0,nivel medio,alta,2,0,1,sem conta,4,7626,Sim,4,15,muito pobre,Nao,eletronico,gratis,3,1
+0,0,0,nivel medio,alta,2,0,2,media,4,7938,Sim,8,6,muito pobre,carro ou outro,carro novo,proprio,2,0
+0,0,0,nivel medio,sem conta,1,1,2,media,4,8076,Sim,14,6,boa,Nao,eletronico,gratis,2,0
+0,0,0,nivel medio,baixa,1,0,1,alta,2,8460,Sim,15,14,boa,imovel,empresa,proprio,1,0
+0,0,0,nivel alto,negativa,1,0,1,baixa,2,8532,Sim,1,9,boa,Nao,carro novo,gratis,3,1
+0,0,0,nivel alto,sem conta,1,0,1,baixa,2,9030,Sim,2,18,boa,Nao,eletronico,gratis,4,0
+0,1,0,nivel medio,baixa,2,0,1,sem conta,4,9222,Sim,15,15,muito pobre,imovel,eletronico,proprio,4,0
+0,0,0,nivel medio,sem conta,2,0,1,baixa,2,9324,Sim,6,6,muito pobre,carro ou outro,eletronico,aluguel,1,0
+0,0,0,nivel alto,negativa,2,0,1,baixa,1,11280,Sim,5,18,muito pobre,seguro de vida,eletronico,proprio,4,0
+0,0,0,nivel alto,alta,1,0,1,baixa,4,11448,Sim,12,30,pobre,imovel,empresa,proprio,4,1
+0,0,0,nivel medio,baixa,1,1,1,muito_alta,3,11478,Sim,1,18,boa,imovel,empresa,proprio,3,0
+1,0,0,nivel alto,negativa,1,1,1,baixa,4,11640,Sim,1,18,boa,Nao,eletronico,gratis,3,0
+0,0,0,nivel alto,sem conta,1,0,1,sem conta,4,12798,Sim,11,12,boa,Nao,carro novo,gratis,4,0
+0,0,0,nivel medio,negativa,2,0,1,baixa,1,12870,Sim,5,36,pobre,carro ou outro,empresa,proprio,2,1
+0,0,0,nivel medio,sem conta,1,0,1,baixa,2,13014,Sim,3,18,pobre,carro ou outro,empresa,proprio,4,1
+0,0,0,nivel medio,sem conta,2,0,2,sem conta,4,13182,Sim,6,24,muito pobre,carro ou outro,carro_usado,proprio,4,0
+0,0,0,nivel medio,negativa,1,0,1,sem conta,4,13272,Sim,5,20,boa,carro ou outro,mobiliario,proprio,4,0
+0,0,0,nivel medio,baixa,2,2,1,baixa,4,13350,Sim,12,36,pobre,Nao,carro novo,gratis,4,1
+1,0,0,nivel medio,sem conta,1,0,1,sem conta,4,13986,Sim,13,12,muito pobre,imovel,eletronico,proprio,1,0
+0,0,0,nivel medio,alta,1,0,1,alta,2,14160,Sim,2,15,muito pobre,carro ou outro,carro_usado,proprio,2,0
+0,0,0,nivel medio,sem conta,2,0,2,alta,2,14250,Sim,4,24,pobre,carro ou outro,empresa,proprio,4,0
+0,0,1,nivel alto,negativa,4,0,2,baixa,4,14652,Sim,11,27,muito pobre,carro ou outro,empresa,proprio,4,0
+0,0,0,nivel alto,sem conta,1,0,1,sem conta,4,14856,Sim,13,21,boa,imovel,carro_usado,proprio,4,0
+0,0,2,nivel medio,negativa,1,0,1,alta,4,14898,Sim,3,24,boa,imovel,mobiliario,proprio,4,0
+0,0,0,nivel medio,baixa,2,0,1,muito_alta,2,16470,Sim,6,21,muito pobre,carro ou outro,mobiliario,proprio,3,0
+0,0,0,nivel medio,baixa,1,1,1,sem conta,4,16560,Sim,13,24,boa,Nao,carro_usado,gratis,4,0
+0,0,0,nivel medio,baixa,1,2,1,sem conta,2,16572,Sim,16,12,boa,seguro de vida,mobiliario,proprio,1,1
+0,0,2,nivel medio,negativa,1,0,1,alta,4,16968,Sim,3,24,boa,imovel,mobiliario,proprio,4,0
+0,0,0,nivel medio,negativa,1,2,2,sem conta,4,17784,Sim,14,24,boa,Nao,carro_usado,gratis,4,0
+0,0,0,nivel medio,alta,2,0,1,sem conta,2,18888,Sim,2,24,muito pobre,carro ou outro,eletronico,proprio,3,0
+0,0,0,nivel alto,sem conta,1,0,1,alta,2,19410,Sim,15,24,boa,carro ou outro,eletronico,proprio,3,0
+0,0,0,nivel alto,sem conta,1,0,1,baixa,4,19650,Sim,12,21,muito pobre,carro ou outro,carro_usado,proprio,1,0
+0,0,0,nivel medio,negativa,1,0,1,baixa,4,20316,Sim,9,12,boa,Nao,carro_usado,gratis,3,1
+0,0,2,nivel medio,baixa,1,0,2,muito_alta,2,20976,Sim,2,30,boa,carro ou outro,mobiliario,proprio,4,0
+0,0,0,nivel alto,sem conta,1,2,1,baixa,2,21408,Sim,9,15,boa,carro ou outro,eletronico,aluguel,4,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,4,21672,Sim,13,18,muito pobre,seguro de vida,mobiliario,proprio,3,0
+0,0,0,nivel medio,baixa,3,0,1,baixa,4,21702,Sim,12,12,muito pobre,carro ou outro,mobiliario,aluguel,1,0
+0,0,0,nivel medio,negativa,2,0,1,muito_alta,4,21732,Sim,12,30,boa,seguro de vida,mobiliario,aluguel,4,0
+0,0,0,nivel medio,sem conta,1,0,1,media,4,22872,Sim,1,15,boa,carro ou outro,carro_usado,proprio,1,0
+0,0,0,operario,sem conta,1,0,1,sem conta,4,23010,Sim,11,36,boa,imovel,eletronico,proprio,2,0
+0,0,0,nivel medio,baixa,1,0,1,media,2,23268,Sim,1,24,muito pobre,carro ou outro,carro novo,proprio,4,0
+0,0,0,nivel medio,sem conta,1,0,1,baixa,4,23832,Sim,6,24,boa,seguro de vida,mobiliario,aluguel,2,0
+0,0,0,operario,baixa,1,0,1,sem conta,4,26106,Sim,3,24,boa,seguro de vida,mobiliario,proprio,1,0
+0,0,0,nivel alto,sem conta,1,0,1,baixa,2,28116,Sim,4,36,boa,Nao,carro_usado,gratis,2,0
+1,0,0,nivel medio,negativa,2,0,1,baixa,4,29058,Sim,13,12,muito pobre,seguro de vida,carro novo,aluguel,3,1
+0,0,0,nivel medio,baixa,1,0,1,sem conta,4,30504,Sim,14,24,boa,carro ou outro,eletronico,proprio,2,0
+0,0,0,nivel medio,sem conta,4,0,2,sem conta,4,31140,Sim,15,27,boa,seguro de vida,reformas,proprio,4,0
+0,0,0,desempregado,baixa,1,1,1,sem conta,4,32286,Sim,0,48,boa,Nao,outro,gratis,3,0
+0,0,0,nivel medio,sem conta,2,0,1,media,2,34452,Sim,6,36,boa,carro ou outro,empresa,proprio,2,0
+0,0,0,nivel medio,sem conta,2,0,1,sem conta,1,35658,Sim,1,24,boa,carro ou outro,eletronico,proprio,1,1
+0,0,0,nivel medio,baixa,2,1,1,media,4,36888,Sim,15,20,boa,carro ou outro,carro_usado,proprio,3,0
+0,0,0,operario,baixa,1,0,2,baixa,4,37224,Sim,4,18,pobre,imovel,reformas,proprio,2,0
+0,0,0,nivel medio,negativa,2,0,1,baixa,4,37986,Sim,15,48,muito pobre,Nao,carro_usado,gratis,4,1
+0,0,0,nivel alto,sem conta,2,2,2,baixa,4,38748,Sim,10,18,boa,Nao,carro novo,proprio,2,1
+0,0,0,nivel medio,negativa,1,0,1,baixa,2,40548,Sim,4,48,boa,carro ou outro,eletronico,proprio,3,1
+0,0,0,nivel alto,baixa,1,0,2,media,2,41100,Sim,0,15,boa,seguro de vida,carro novo,proprio,1,1
+0,0,0,nivel alto,baixa,1,2,1,baixa,4,43848,Sim,0,10,boa,Nao,carro novo,gratis,2,0
+0,0,0,nivel alto,negativa,1,0,1,baixa,1,44856,Sim,6,48,boa,Nao,educacao,gratis,4,0
+0,0,0,nivel alto,baixa,4,0,1,media,4,48516,Sim,15,36,pobre,carro ou outro,carro novo,proprio,2,1
+0,0,0,nivel alto,baixa,2,0,1,baixa,4,49908,Sim,12,27,boa,Nao,empresa,gratis,2,1
+0,0,2,nivel medio,sem conta,1,0,1,sem conta,3,61332,Sim,5,48,boa,carro ou outro,eletronico,proprio,4,0
+0,0,0,nivel alto,sem conta,1,1,1,sem conta,4,82536,Sim,11,60,muito pobre,Nao,carro novo,gratis,2,0
+0,0,0,nivel alto,baixa,1,0,1,baixa,2,84162,Sim,5,60,boa,Nao,carro novo,proprio,4,1
+0,0,0,nivel alto,baixa,1,0,1,baixa,2,85908,Sim,14,36,boa,Nao,carro novo,gratis,4,1
+0,0,0,nivel alto,baixa,2,2,1,media,4,88692,Sim,10,60,boa,Nao,outro,gratis,3,1
+0,0,0,nivel medio,sem conta,2,0,1,baixa,4,93918,Sim,5,60,pobre,carro ou outro,eletronico,proprio,2,0
+0,0,0,nivel medio,baixa,1,0,1,baixa,2,94032,Sim,3,48,boa,carro ou outro,empresa,proprio,2,1
